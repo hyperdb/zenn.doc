@@ -3,7 +3,7 @@ title: "［AtCorder］ABC-042｜A 和風いろはちゃんイージー"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'atcorder', 'abc']
-published: false
+published: true
 ---
 
 ## 設問ページ
