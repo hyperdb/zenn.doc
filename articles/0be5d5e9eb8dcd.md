@@ -3,7 +3,7 @@ title: "［AtCorder］ABC-049｜A 居合を終え、青い絵を覆う"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'atcorder', 'abc']
-published: false
+published: true
 ---
 
 ## 設問ページ
