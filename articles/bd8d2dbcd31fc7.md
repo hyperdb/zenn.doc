@@ -3,7 +3,7 @@ title: "［AtCorder］ABC-045｜Ｂ 3人でカードゲームイージー"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'atcorder', 'abc']
-published: false
+published: true
 ---
 
 ## 設問ページ
