@@ -1,8 +1,8 @@
 ---
-title: "［AtCorder］ABC-056｜A HonestOrDishonest"
+title: "［AtCoder］ABC-056｜A HonestOrDishonest"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ['python', 'atcorder', 'abc']
+topics: ['python', 'AtCoder', 'abc']
 published: true
 ---
 

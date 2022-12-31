@@ -1,8 +1,8 @@
 ---
-title: "［AtCorder］ABC-045｜Ｂ 3人でカードゲームイージー"
+title: "［AtCoder］ABC-045｜Ｂ 3人でカードゲームイージー"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ['python', 'atcorder', 'abc']
+topics: ['python', 'AtCoder', 'abc']
 published: true
 ---
 

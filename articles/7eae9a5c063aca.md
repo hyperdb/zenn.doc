@@ -1,8 +1,8 @@
 ---
-title: "［AtCorder］ABC-057｜A Remaining Time"
+title: "［AtCoder］ABC-057｜A Remaining Time"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ['python', 'atcorder', 'abc']
+topics: ['python', 'AtCoder', 'abc']
 published: true
 ---
 
