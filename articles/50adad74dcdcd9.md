@@ -1,5 +1,5 @@
 ---
-title: "［AtCoder］ABC-067｜B Snake Toy"
+title: "［AtCoder］ABC-067｜B - Snake Toy"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'AtCoder', 'abc']

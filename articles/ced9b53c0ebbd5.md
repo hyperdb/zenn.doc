@@ -1,5 +1,5 @@
 ---
-title: "［AtCoder］ABC-064｜B Traveling AtCoDeer Problem"
+title: "［AtCoder］ABC-064｜B - Traveling AtCoDeer Problem"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'AtCoder', 'abc']

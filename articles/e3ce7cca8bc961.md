@@ -1,5 +1,5 @@
 ---
-title: "［AtCoder］ABC-071｜ A Meal Delivery"
+title: "［AtCoder］ABC-071｜A - Meal Delivery"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'AtCoder', 'abc']

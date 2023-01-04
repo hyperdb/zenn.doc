@@ -1,5 +1,5 @@
 ---
-title: "［AtCoder］ABC-072｜ B OddString"
+title: "［AtCoder］ABC-072｜B - OddString"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'AtCoder', 'abc']

@@ -1,5 +1,5 @@
 ---
-title: "［AtCoder］ABC-070｜A Palindromic Number"
+title: "［AtCoder］ABC-070｜A - Palindromic Number"
 emoji: "⌨️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['python', 'AtCoder', 'abc']
