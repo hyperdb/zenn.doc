@@ -13,10 +13,10 @@ def main():
         content = f.read()
         f.close()
 
-        pattern = r'title: \"［AtCoder］(.*?)\"'
+        pattern = r'title: \"［.*?］(.*?)\"'
         result = re.search(pattern, content)
 
-        t = result.group(1)
+        t = result.group(1) if result else ''
         i = os.path.splitext(os.path.basename(file))[0]
 
         index.append([t, i])
@@ -27,8 +27,9 @@ def main():
     for item in index:
         title = item[0]
         id = item[1]
-        line = "- [%s](https://zenn.dev/hyperdb/articles/%s)" % (title, id)
-        f.write(line + "\n")
+        if title != '':
+            line = "- [%s](https://zenn.dev/hyperdb/articles/%s)" % (title, id)
+            f.write(line + "\n")
     f.close()
 
 
