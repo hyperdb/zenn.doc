@@ -152,5 +152,7 @@
 - [ABC-117｜B - Polygon](https://zenn.dev/hyperdb/articles/094bc21322e75d)
 - [ABC-118｜A - B +/- A](https://zenn.dev/hyperdb/articles/1c1444e55a5126)
 - [ABC-118｜B - Foods Loved by Everyone](https://zenn.dev/hyperdb/articles/f7170ba5a13e43)
+- [ABC-119｜A - Still TBD](https://zenn.dev/hyperdb/articles/d681573c4b9f9e)
+- [ABC-119｜B - Digital Gifts](https://zenn.dev/hyperdb/articles/5b44487a0cc503)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
