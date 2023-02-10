@@ -160,5 +160,7 @@
 - [ABC-121｜B - Can you solve this?](https://zenn.dev/hyperdb/articles/803ab1609a25a9)
 - [ABC-122｜A - Double Helix](https://zenn.dev/hyperdb/articles/3341cdc07ca7cf)
 - [ABC-122｜B - ATCoder](https://zenn.dev/hyperdb/articles/ec985ac3dc6845)
+- [ABC-123｜A - Five Antennas](https://zenn.dev/hyperdb/articles/f1e7b655a67629)
+- [ABC-123｜B - Five Dishes](https://zenn.dev/hyperdb/articles/3b3c2848aec331)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
