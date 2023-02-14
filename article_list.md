@@ -170,5 +170,7 @@
 - [ABC-126｜B - YYMM or MMYY](https://zenn.dev/hyperdb/articles/b58cd0c575833d)
 - [ABC-127｜A - Ferris Wheel](https://zenn.dev/hyperdb/articles/6ec583eedb2137)
 - [ABC-127｜B - Algae](https://zenn.dev/hyperdb/articles/a18284ddddaae0)
+- [ABC-128｜A - Apple Pie](https://zenn.dev/hyperdb/articles/d6b7a4fe968424)
+- [ABC-128｜B - Guidebook](https://zenn.dev/hyperdb/articles/282c1d36e12b97)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
