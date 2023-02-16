@@ -174,5 +174,7 @@
 - [ABC-128｜B - Guidebook](https://zenn.dev/hyperdb/articles/282c1d36e12b97)
 - [ABC-129｜A - Airplane](https://zenn.dev/hyperdb/articles/77b429fe547c02)
 - [ABC-129｜B - Balance](https://zenn.dev/hyperdb/articles/14d2b05e9a09cb)
+- [ABC-130｜A - Rounding](https://zenn.dev/hyperdb/articles/f7be603fd584e9)
+- [ABC-130｜B - Bounding](https://zenn.dev/hyperdb/articles/c4fb556e2014e4)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
