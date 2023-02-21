@@ -192,5 +192,7 @@
 - [ABC-137｜B - One Clue](https://zenn.dev/hyperdb/articles/b0ff49575df0e7)
 - [ABC-138｜A - Red or Not](https://zenn.dev/hyperdb/articles/2b2c6357163dee)
 - [ABC-138｜B - Resistors in Parallel](https://zenn.dev/hyperdb/articles/4b8586730b9f9a)
+- [ABC-139｜A - Tenki](https://zenn.dev/hyperdb/articles/2d491dfe8cc888)
+- [ABC-139｜B - Power Socket](https://zenn.dev/hyperdb/articles/ce13c2be08b1cd)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
