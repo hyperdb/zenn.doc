@@ -190,5 +190,7 @@
 - [ABC-136｜B - Uneven Numbers](https://zenn.dev/hyperdb/articles/6020b8aa4e388f)
 - [ABC-137｜A - +-x](https://zenn.dev/hyperdb/articles/a1dbc189328025)
 - [ABC-137｜B - One Clue](https://zenn.dev/hyperdb/articles/b0ff49575df0e7)
+- [ABC-138｜A - Red or Not](https://zenn.dev/hyperdb/articles/2b2c6357163dee)
+- [ABC-138｜B - Resistors in Parallel](https://zenn.dev/hyperdb/articles/4b8586730b9f9a)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
