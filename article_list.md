@@ -196,5 +196,7 @@
 - [ABC-139｜B - Power Socket](https://zenn.dev/hyperdb/articles/ce13c2be08b1cd)
 - [ABC-140｜A - Password](https://zenn.dev/hyperdb/articles/9830a469a0943c)
 - [ABC-140｜B - Buffet](https://zenn.dev/hyperdb/articles/7cb9676ba372c1)
+- [ABC-141｜A - Weather Prediction](https://zenn.dev/hyperdb/articles/1c8d1f5e93c93d)
+- [ABC-141｜B - Tap Dance](https://zenn.dev/hyperdb/articles/8762f307c9c148)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
