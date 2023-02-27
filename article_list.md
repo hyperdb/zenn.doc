@@ -214,5 +214,7 @@
 - [ABC-148｜B - Strings with the Same Length](https://zenn.dev/hyperdb/articles/81e0e04d1d468d)
 - [ABC-149｜A - Strings](https://zenn.dev/hyperdb/articles/12b4ab4e3933ca)
 - [ABC-149｜B - Greedy Takahashi](https://zenn.dev/hyperdb/articles/918650dd2179a1)
+- [ABC-150｜A - 500 Yen Coins](https://zenn.dev/hyperdb/articles/d194cb7a348c9e)
+- [ABC-150｜B - Count ABC](https://zenn.dev/hyperdb/articles/1981400dfc854d)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
