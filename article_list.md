@@ -218,5 +218,7 @@
 - [ABC-150｜B - Count ABC](https://zenn.dev/hyperdb/articles/1981400dfc854d)
 - [ABC-151｜A - Next Alphabet](https://zenn.dev/hyperdb/articles/df387cdc1b86d8)
 - [ABC-151｜B - Achieve the Goal](https://zenn.dev/hyperdb/articles/dde59fbd047e57)
+- [ABC-152｜A - AC or WA](https://zenn.dev/hyperdb/articles/0b421359c59776)
+- [ABC-152｜B - Comparing Strings](https://zenn.dev/hyperdb/articles/14ccc78686409b)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
