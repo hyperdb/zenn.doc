@@ -222,5 +222,7 @@
 - [ABC-152｜B - Comparing Strings](https://zenn.dev/hyperdb/articles/14ccc78686409b)
 - [ABC-153｜A - Serval vs Monster](https://zenn.dev/hyperdb/articles/f193dbb7cd9305)
 - [ABC-153｜B - Common Raccoon vs Monster](https://zenn.dev/hyperdb/articles/084b2ebddf4bb4)
+- [ABC-154｜A - Remaining Balls](https://zenn.dev/hyperdb/articles/678a55eb60e1db)
+- [ABC-154｜B - I miss you...](https://zenn.dev/hyperdb/articles/545dac4cded5fa)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
