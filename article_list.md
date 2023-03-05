@@ -228,5 +228,7 @@
 - [ABC-155｜B - Papers, Please](https://zenn.dev/hyperdb/articles/ff69a58ef197a9)
 - [ABC-156｜A - Beginner](https://zenn.dev/hyperdb/articles/6cd575f602a43e)
 - [ABC-156｜B - Digits](https://zenn.dev/hyperdb/articles/336c96e3b172f7)
+- [ABC-157｜A - Duplex Printing](https://zenn.dev/hyperdb/articles/1d83f12f3560a5)
+- [ABC-157｜B - Bingo](https://zenn.dev/hyperdb/articles/d2a561979f1f42)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
