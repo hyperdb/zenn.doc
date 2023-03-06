@@ -230,5 +230,7 @@
 - [ABC-156｜B - Digits](https://zenn.dev/hyperdb/articles/336c96e3b172f7)
 - [ABC-157｜A - Duplex Printing](https://zenn.dev/hyperdb/articles/1d83f12f3560a5)
 - [ABC-157｜B - Bingo](https://zenn.dev/hyperdb/articles/d2a561979f1f42)
+- [ABC-158｜A - Station and Bus](https://zenn.dev/hyperdb/articles/bcdb04f34c0977)
+- [ABC-158｜B - Count Balls](https://zenn.dev/hyperdb/articles/d1b2104e629a60)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
