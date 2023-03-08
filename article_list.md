@@ -234,5 +234,7 @@
 - [ABC-158｜B - Count Balls](https://zenn.dev/hyperdb/articles/d1b2104e629a60)
 - [ABC-159｜A - The Number of Even Pairs](https://zenn.dev/hyperdb/articles/ca02667d6797be)
 - [ABC-159｜B - String Palindrome](https://zenn.dev/hyperdb/articles/ac85b4a2b9b340)
+- [ABC-160｜A - Coffee](https://zenn.dev/hyperdb/articles/45a76d57c6a237)
+- [ABC-160｜B - Golden Coins](https://zenn.dev/hyperdb/articles/4b4788224fa5d7)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
