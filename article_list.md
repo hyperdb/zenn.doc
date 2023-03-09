@@ -236,5 +236,7 @@
 - [ABC-159｜B - String Palindrome](https://zenn.dev/hyperdb/articles/ac85b4a2b9b340)
 - [ABC-160｜A - Coffee](https://zenn.dev/hyperdb/articles/45a76d57c6a237)
 - [ABC-160｜B - Golden Coins](https://zenn.dev/hyperdb/articles/4b4788224fa5d7)
+- [ABC-161｜A - ABC Swap](https://zenn.dev/hyperdb/articles/c93327dc1bc7cf)
+- [ABC-161｜B - Popular Vote](https://zenn.dev/hyperdb/articles/91e1f7794979a9)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
