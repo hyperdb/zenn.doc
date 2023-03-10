@@ -238,5 +238,7 @@
 - [ABC-160｜B - Golden Coins](https://zenn.dev/hyperdb/articles/4b4788224fa5d7)
 - [ABC-161｜A - ABC Swap](https://zenn.dev/hyperdb/articles/c93327dc1bc7cf)
 - [ABC-161｜B - Popular Vote](https://zenn.dev/hyperdb/articles/91e1f7794979a9)
+- [ABC-162｜A - Lucky 7](https://zenn.dev/hyperdb/articles/8ef88984625ca6)
+- [ABC-162｜B - FizzBuzz Sum](https://zenn.dev/hyperdb/articles/df4be7a3a4aa4f)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
