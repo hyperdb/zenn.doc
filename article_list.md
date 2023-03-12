@@ -244,5 +244,7 @@
 - [ABC-163｜B - Homework](https://zenn.dev/hyperdb/articles/9559c6ab8a9161)
 - [ABC-164｜A - Sheep and Wolves](https://zenn.dev/hyperdb/articles/f7f2105f1cf351)
 - [ABC-164｜B - Battle](https://zenn.dev/hyperdb/articles/82ef443a6e532d)
+- [ABC-165｜A - We Love Golf](https://zenn.dev/hyperdb/articles/1cae336ff060cf)
+- [ABC-165｜B - 1%](https://zenn.dev/hyperdb/articles/6d7925cee4e867)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
