@@ -246,5 +246,7 @@
 - [ABC-164｜B - Battle](https://zenn.dev/hyperdb/articles/82ef443a6e532d)
 - [ABC-165｜A - We Love Golf](https://zenn.dev/hyperdb/articles/1cae336ff060cf)
 - [ABC-165｜B - 1%](https://zenn.dev/hyperdb/articles/6d7925cee4e867)
+- [ABC-166｜A - A?C](https://zenn.dev/hyperdb/articles/165724e35805a5)
+- [ABC-166｜B - Trick or Treat](https://zenn.dev/hyperdb/articles/b63605b6e0744c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
