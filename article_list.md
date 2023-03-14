@@ -248,5 +248,7 @@
 - [ABC-165｜B - 1%](https://zenn.dev/hyperdb/articles/6d7925cee4e867)
 - [ABC-166｜A - A?C](https://zenn.dev/hyperdb/articles/165724e35805a5)
 - [ABC-166｜B - Trick or Treat](https://zenn.dev/hyperdb/articles/b63605b6e0744c)
+- [ABC-167｜A - Registration](https://zenn.dev/hyperdb/articles/5c310c5f593eea)
+- [ABC-167｜B - Easy Linear Programming](https://zenn.dev/hyperdb/articles/68ffd8416d9b78)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
