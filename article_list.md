@@ -254,5 +254,7 @@
 - [ABC-168｜B - ... (Triple Dots)](https://zenn.dev/hyperdb/articles/8e9a950b9c027b)
 - [ABC-169｜A - Multiplication 1](https://zenn.dev/hyperdb/articles/b24948580797b5)
 - [ABC-169｜B - Multiplication 2](https://zenn.dev/hyperdb/articles/10273a004a8937)
+- [ABC-170｜A - Five Variables](https://zenn.dev/hyperdb/articles/62d6fa54badf5a)
+- [ABC-170｜B - Crane and Turtle](https://zenn.dev/hyperdb/articles/241ca99de4372b)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
