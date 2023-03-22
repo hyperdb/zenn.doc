@@ -270,5 +270,7 @@
 - [ABC-176｜B - Multiple of 9](https://zenn.dev/hyperdb/articles/4010f38975001b)
 - [ABC-177｜A - Don't be late](https://zenn.dev/hyperdb/articles/7d65fafcb01ca8)
 - [ABC-177｜B - Substring](https://zenn.dev/hyperdb/articles/9d1242746c7c66)
+- [ABC-178｜A - Not](https://zenn.dev/hyperdb/articles/f3b35bef069f18)
+- [ABC-178｜B - Product Max](https://zenn.dev/hyperdb/articles/b402f2a3db21cd)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
