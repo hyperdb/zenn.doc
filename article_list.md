@@ -272,5 +272,7 @@
 - [ABC-177｜B - Substring](https://zenn.dev/hyperdb/articles/9d1242746c7c66)
 - [ABC-178｜A - Not](https://zenn.dev/hyperdb/articles/f3b35bef069f18)
 - [ABC-178｜B - Product Max](https://zenn.dev/hyperdb/articles/b402f2a3db21cd)
+- [ABC-179｜A - Plural Form](https://zenn.dev/hyperdb/articles/c073aea370a601)
+- [ABC-179｜B - Go to Jail](https://zenn.dev/hyperdb/articles/4617a7b2a92d79)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
