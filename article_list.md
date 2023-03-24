@@ -274,5 +274,7 @@
 - [ABC-178｜B - Product Max](https://zenn.dev/hyperdb/articles/b402f2a3db21cd)
 - [ABC-179｜A - Plural Form](https://zenn.dev/hyperdb/articles/c073aea370a601)
 - [ABC-179｜B - Go to Jail](https://zenn.dev/hyperdb/articles/4617a7b2a92d79)
+- [ABC-180｜A - box](https://zenn.dev/hyperdb/articles/9458610b41ed6b)
+- [ABC-180｜B - Various distances](https://zenn.dev/hyperdb/articles/1af4230043a679)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
