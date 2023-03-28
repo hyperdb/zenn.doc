@@ -282,5 +282,7 @@
 - [ABC-182｜B - Almost GCD](https://zenn.dev/hyperdb/articles/763920ac858c78)
 - [ABC-183｜A - ReLU](https://zenn.dev/hyperdb/articles/accb751b2795d6)
 - [ABC-183｜B - Billiards](https://zenn.dev/hyperdb/articles/4136755d286d42)
+- [ABC-184｜A - Determinant](https://zenn.dev/hyperdb/articles/7462c69d3d35d5)
+- [ABC-184｜B - Quizzes](https://zenn.dev/hyperdb/articles/b2aadee9350e25)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
