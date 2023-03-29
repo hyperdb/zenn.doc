@@ -284,5 +284,7 @@
 - [ABC-183｜B - Billiards](https://zenn.dev/hyperdb/articles/4136755d286d42)
 - [ABC-184｜A - Determinant](https://zenn.dev/hyperdb/articles/7462c69d3d35d5)
 - [ABC-184｜B - Quizzes](https://zenn.dev/hyperdb/articles/b2aadee9350e25)
+- [ABC-185｜A - ABC Preparation](https://zenn.dev/hyperdb/articles/7091fab839dde6)
+- [ABC-185｜B - Smartphone Addiction](https://zenn.dev/hyperdb/articles/b431c70ffa23e1)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
