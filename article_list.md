@@ -294,5 +294,7 @@
 - [ABC-188｜B - Orthogonality](https://zenn.dev/hyperdb/articles/0276fe7b46d9e3)
 - [ABC-189｜A - Slot](https://zenn.dev/hyperdb/articles/ca5518d416d17f)
 - [ABC-189｜B - Alcoholic](https://zenn.dev/hyperdb/articles/52e39584b75ce8)
+- [ABC-190｜A - Very Very Primitive Game](https://zenn.dev/hyperdb/articles/e573a98948a996)
+- [ABC-190｜B - Magic 3](https://zenn.dev/hyperdb/articles/ae1705b5d701ef)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
