@@ -298,5 +298,7 @@
 - [ABC-190｜B - Magic 3](https://zenn.dev/hyperdb/articles/ae1705b5d701ef)
 - [ABC-191｜A - Vanishing Pitch](https://zenn.dev/hyperdb/articles/e2ca832d8455fa)
 - [ABC-191｜B - Remove It](https://zenn.dev/hyperdb/articles/9bfee70fc5b390)
+- [ABC-192｜A - Star](https://zenn.dev/hyperdb/articles/2238ede7835dbf)
+- [ABC-192｜B - uNrEaDaBlE sTrInG](https://zenn.dev/hyperdb/articles/0ee39b8c08e259)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
