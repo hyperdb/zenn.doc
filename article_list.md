@@ -302,5 +302,7 @@
 - [ABC-192｜B - uNrEaDaBlE sTrInG](https://zenn.dev/hyperdb/articles/0ee39b8c08e259)
 - [ABC-193｜A - Discount](https://zenn.dev/hyperdb/articles/f899fb9a6b1094)
 - [ABC-193｜B - Play Snuke](https://zenn.dev/hyperdb/articles/a79eea55fcab71)
+- [ABC-194｜A - I Scream](https://zenn.dev/hyperdb/articles/ee87e1bc84af20)
+- [ABC-194｜B - Job Assignment](https://zenn.dev/hyperdb/articles/942476c4519af0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
