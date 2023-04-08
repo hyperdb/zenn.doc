@@ -304,5 +304,7 @@
 - [ABC-193｜B - Play Snuke](https://zenn.dev/hyperdb/articles/a79eea55fcab71)
 - [ABC-194｜A - I Scream](https://zenn.dev/hyperdb/articles/ee87e1bc84af20)
 - [ABC-194｜B - Job Assignment](https://zenn.dev/hyperdb/articles/942476c4519af0)
+- [ABC-195｜A - Health M Death](https://zenn.dev/hyperdb/articles/0e87e505b892e4)
+- [ABC-195｜B - Many Oranges](https://zenn.dev/hyperdb/articles/11f1494e1b0a71)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
