@@ -306,5 +306,7 @@
 - [ABC-194｜B - Job Assignment](https://zenn.dev/hyperdb/articles/942476c4519af0)
 - [ABC-195｜A - Health M Death](https://zenn.dev/hyperdb/articles/0e87e505b892e4)
 - [ABC-195｜B - Many Oranges](https://zenn.dev/hyperdb/articles/11f1494e1b0a71)
+- [ABC-196｜A - Difference Max](https://zenn.dev/hyperdb/articles/83288d70f681d5)
+- [ABC-196｜B - Round Down](https://zenn.dev/hyperdb/articles/4de4af3de10583)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
