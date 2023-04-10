@@ -308,5 +308,7 @@
 - [ABC-195｜B - Many Oranges](https://zenn.dev/hyperdb/articles/11f1494e1b0a71)
 - [ABC-196｜A - Difference Max](https://zenn.dev/hyperdb/articles/83288d70f681d5)
 - [ABC-196｜B - Round Down](https://zenn.dev/hyperdb/articles/4de4af3de10583)
+- [ABC-197｜A - Rotate](https://zenn.dev/hyperdb/articles/d396b92b5bd174)
+- [ABC-197｜B - Visibility](https://zenn.dev/hyperdb/articles/eb4d57078ee0f1)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
