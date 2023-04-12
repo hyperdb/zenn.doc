@@ -312,5 +312,7 @@
 - [ABC-197｜B - Visibility](https://zenn.dev/hyperdb/articles/eb4d57078ee0f1)
 - [ABC-198｜A - Div](https://zenn.dev/hyperdb/articles/9a276d057874ff)
 - [ABC-198｜B - Palindrome with leading zeros](https://zenn.dev/hyperdb/articles/b41102c1a521eb)
+- [ABC-199｜A - Square Inequality](https://zenn.dev/hyperdb/articles/8bdb615ea0e850)
+- [ABC-199｜B - Intersection](https://zenn.dev/hyperdb/articles/5026d81d11a586)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
