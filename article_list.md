@@ -318,5 +318,7 @@
 - [ABC-200｜A - Century ](https://zenn.dev/hyperdb/articles/0690848ec44d99)
 - [ABC-201｜A - Tiny Arithmetic Sequence](https://zenn.dev/hyperdb/articles/7a68bbbe94502a)
 - [ABC-201｜B - Do you know the second highest mountain?](https://zenn.dev/hyperdb/articles/baa664fb624f05)
+- [ABC-202｜A - Three Dice](https://zenn.dev/hyperdb/articles/e533143a815041)
+- [ABC-202｜B - 180°](https://zenn.dev/hyperdb/articles/5939b4acb1dcc0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
