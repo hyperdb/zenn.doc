@@ -324,5 +324,7 @@
 - [ABC-203｜B - AtCoder Condominium](https://zenn.dev/hyperdb/articles/b11f8ca4de5f6f)
 - [ABC-204｜A - Rock-paper-scissors](https://zenn.dev/hyperdb/articles/537f90229bc800)
 - [ABC-204｜B - Nuts](https://zenn.dev/hyperdb/articles/04ef0ae7d37776)
+- [ABC-205｜A - kcal](https://zenn.dev/hyperdb/articles/129fa030a0077c)
+- [ABC-205｜B - Permutation Check](https://zenn.dev/hyperdb/articles/de7079cbd9a2d3)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
