@@ -326,5 +326,7 @@
 - [ABC-204｜B - Nuts](https://zenn.dev/hyperdb/articles/04ef0ae7d37776)
 - [ABC-205｜A - kcal](https://zenn.dev/hyperdb/articles/129fa030a0077c)
 - [ABC-205｜B - Permutation Check](https://zenn.dev/hyperdb/articles/de7079cbd9a2d3)
+- [ABC-206｜A - Maxi-Buying](https://zenn.dev/hyperdb/articles/368e051e268c0c)
+- [ABC-206｜B - Savings](https://zenn.dev/hyperdb/articles/ab7c66cd64f239)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
