@@ -332,5 +332,7 @@
 - [ABC-207｜B - Hydrate](https://zenn.dev/hyperdb/articles/3cf990217986ef)
 - [ABC-208｜A - Rolling Dice](https://zenn.dev/hyperdb/articles/9da6544ade4a73)
 - [ABC-208｜B - Factorial Yen Coin](https://zenn.dev/hyperdb/articles/0d54d5f1168984)
+- [ABC-209｜A - Counting](https://zenn.dev/hyperdb/articles/aa823767d6b66d)
+- [ABC-209｜B - Can you buy them all?](https://zenn.dev/hyperdb/articles/ac4c8b721b1ef2)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
