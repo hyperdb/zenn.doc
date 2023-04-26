@@ -340,5 +340,7 @@
 - [ABC-211｜B - Cycle Hit](https://zenn.dev/hyperdb/articles/c0c88dc697bc4d)
 - [ABC-212｜A - Alloy](https://zenn.dev/hyperdb/articles/48a034b929c2fd)
 - [ABC-212｜B - Weak Password](https://zenn.dev/hyperdb/articles/543865c00cea22)
+- [ABC-213｜A - Bitwise Exclusive Or](https://zenn.dev/hyperdb/articles/b95065cc37c735)
+- [ABC-213｜B - Booby Prize](https://zenn.dev/hyperdb/articles/8c6c3699ca823c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
