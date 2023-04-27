@@ -342,5 +342,7 @@
 - [ABC-212｜B - Weak Password](https://zenn.dev/hyperdb/articles/543865c00cea22)
 - [ABC-213｜A - Bitwise Exclusive Or](https://zenn.dev/hyperdb/articles/b95065cc37c735)
 - [ABC-213｜B - Booby Prize](https://zenn.dev/hyperdb/articles/8c6c3699ca823c)
+- [ABC-214｜A - New Generation ABC](https://zenn.dev/hyperdb/articles/d648bd7fa1fbb5)
+- [ABC-214｜B - How many?](https://zenn.dev/hyperdb/articles/e245f9ce297698)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
