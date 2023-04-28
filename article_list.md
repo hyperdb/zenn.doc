@@ -344,5 +344,7 @@
 - [ABC-213｜B - Booby Prize](https://zenn.dev/hyperdb/articles/8c6c3699ca823c)
 - [ABC-214｜A - New Generation ABC](https://zenn.dev/hyperdb/articles/d648bd7fa1fbb5)
 - [ABC-214｜B - How many?](https://zenn.dev/hyperdb/articles/e245f9ce297698)
+- [ABC-215｜A - Your First Judge](https://zenn.dev/hyperdb/articles/a5b4756d2cb87d)
+- [ABC-215｜B - log2(N)](https://zenn.dev/hyperdb/articles/b5e631c4b34edd)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
