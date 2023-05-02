@@ -348,5 +348,7 @@
 - [ABC-215｜B - log2(N)](https://zenn.dev/hyperdb/articles/b5e631c4b34edd)
 - [ABC-216｜A - Signed Difficulty](https://zenn.dev/hyperdb/articles/53b82847da2f07)
 - [ABC-216｜B - Same Name](https://zenn.dev/hyperdb/articles/1c4e3d3b581456)
+- [ABC-217｜A - Lexicographic Order](https://zenn.dev/hyperdb/articles/bd91eeff631b5f)
+- [ABC-217｜B - AtCoder Quiz](https://zenn.dev/hyperdb/articles/c337cff7ac2197)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
