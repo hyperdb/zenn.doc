@@ -350,5 +350,7 @@
 - [ABC-216｜B - Same Name](https://zenn.dev/hyperdb/articles/1c4e3d3b581456)
 - [ABC-217｜A - Lexicographic Order](https://zenn.dev/hyperdb/articles/bd91eeff631b5f)
 - [ABC-217｜B - AtCoder Quiz](https://zenn.dev/hyperdb/articles/c337cff7ac2197)
+- [ABC-218｜A - Weather Forecast](https://zenn.dev/hyperdb/articles/9d2bc146c7073d)
+- [ABC-218｜B - qwerty](https://zenn.dev/hyperdb/articles/cd0ede289c3b28)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
