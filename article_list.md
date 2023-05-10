@@ -356,5 +356,7 @@
 - [ABC-219｜B - Maritozzo](https://zenn.dev/hyperdb/articles/df58d7d0edd3a8)
 - [ABC-220｜A - Find Multiple](https://zenn.dev/hyperdb/articles/708c142a267424)
 - [ABC-220｜B - Base K](https://zenn.dev/hyperdb/articles/e931f01e962d42)
+- [ABC-221｜A - Seismic magnitude scales](https://zenn.dev/hyperdb/articles/da8e0ad4e6c188)
+- [ABC-221｜B - typo](https://zenn.dev/hyperdb/articles/f70c0091460393)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
