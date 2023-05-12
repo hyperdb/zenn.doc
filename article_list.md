@@ -360,5 +360,7 @@
 - [ABC-221｜B - typo](https://zenn.dev/hyperdb/articles/f70c0091460393)
 - [ABC-222｜A - Four Digits](https://zenn.dev/hyperdb/articles/c6be983556aaae)
 - [ABC-222｜B - Failing Grade](https://zenn.dev/hyperdb/articles/40f6ebd0104bcc)
+- [ABC-223｜A - Exact Price](https://zenn.dev/hyperdb/articles/c49158fcdeaee2)
+- [ABC-223｜B - String Shifting](https://zenn.dev/hyperdb/articles/3342a2028ee5aa)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
