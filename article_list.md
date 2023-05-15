@@ -362,5 +362,7 @@
 - [ABC-222｜B - Failing Grade](https://zenn.dev/hyperdb/articles/40f6ebd0104bcc)
 - [ABC-223｜A - Exact Price](https://zenn.dev/hyperdb/articles/c49158fcdeaee2)
 - [ABC-223｜B - String Shifting](https://zenn.dev/hyperdb/articles/3342a2028ee5aa)
+- [ABC-224｜A - Tires](https://zenn.dev/hyperdb/articles/e3722c9af92207)
+- [ABC-224｜B - Mongeness](https://zenn.dev/hyperdb/articles/7c8269e598d801)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
