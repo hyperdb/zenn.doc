@@ -368,5 +368,7 @@
 - [ABC-225｜B - Star or Not](https://zenn.dev/hyperdb/articles/798ea3cba60ea1)
 - [ABC-226｜A - Round decimals](https://zenn.dev/hyperdb/articles/1a8e79aa412ea0)
 - [ABC-226｜B - Counting Arrays](https://zenn.dev/hyperdb/articles/91eab5f42dc9c9)
+- [ABC-227｜A - Last Card](https://zenn.dev/hyperdb/articles/e1dbcf0f2e8bc6)
+- [ABC-227｜B - KEYENCE building](https://zenn.dev/hyperdb/articles/5ac52b584b8b51)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
