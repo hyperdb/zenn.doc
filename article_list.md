@@ -372,5 +372,7 @@
 - [ABC-227｜B - KEYENCE building](https://zenn.dev/hyperdb/articles/5ac52b584b8b51)
 - [ABC-228｜A - On and Off](https://zenn.dev/hyperdb/articles/53c761314aa95e)
 - [ABC-228｜B - Takahashi's Secret](https://zenn.dev/hyperdb/articles/5727f6b3f44e82)
+- [ABC-229｜A - First Grid](https://zenn.dev/hyperdb/articles/ee8dd263c6a57d)
+- [ABC-229｜B - Hard Calculation](https://zenn.dev/hyperdb/articles/01396edb071637)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
