@@ -376,5 +376,7 @@
 - [ABC-229｜B - Hard Calculation](https://zenn.dev/hyperdb/articles/01396edb071637)
 - [ABC-230｜A - AtCoder Quiz 3](https://zenn.dev/hyperdb/articles/a476675e59d17e)
 - [ABC-230｜B - Triple Metre](https://zenn.dev/hyperdb/articles/b5ca85154765ff)
+- [ABC-231｜A - Water Pressure](https://zenn.dev/hyperdb/articles/7e70684d5462ea)
+- [ABC-231｜B - Election](https://zenn.dev/hyperdb/articles/eb106af67e8b3c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
