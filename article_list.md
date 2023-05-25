@@ -378,5 +378,7 @@
 - [ABC-230｜B - Triple Metre](https://zenn.dev/hyperdb/articles/b5ca85154765ff)
 - [ABC-231｜A - Water Pressure](https://zenn.dev/hyperdb/articles/7e70684d5462ea)
 - [ABC-231｜B - Election](https://zenn.dev/hyperdb/articles/eb106af67e8b3c)
+- [ABC-232｜A - QQ solver](https://zenn.dev/hyperdb/articles/2944556eba10c9)
+- [ABC-232｜B - Caesar Cipher](https://zenn.dev/hyperdb/articles/45a48b94e704af)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
