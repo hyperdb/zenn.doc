@@ -382,5 +382,7 @@
 - [ABC-232｜B - Caesar Cipher](https://zenn.dev/hyperdb/articles/45a48b94e704af)
 - [ABC-233｜A - 10yen Stamp](https://zenn.dev/hyperdb/articles/8f10aa10e61737)
 - [ABC-233｜B - A Reverse](https://zenn.dev/hyperdb/articles/4e31352c50da20)
+- [ABC-234｜A - Weird Function](https://zenn.dev/hyperdb/articles/6942333e77d7eb)
+- [ABC-234｜B - Longest Segment](https://zenn.dev/hyperdb/articles/d3aad5cc668019)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
