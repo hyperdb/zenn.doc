@@ -384,5 +384,7 @@
 - [ABC-233｜B - A Reverse](https://zenn.dev/hyperdb/articles/4e31352c50da20)
 - [ABC-234｜A - Weird Function](https://zenn.dev/hyperdb/articles/6942333e77d7eb)
 - [ABC-234｜B - Longest Segment](https://zenn.dev/hyperdb/articles/d3aad5cc668019)
+- [ABC-235｜A - Rotate](https://zenn.dev/hyperdb/articles/57e8d074118513)
+- [ABC-235｜B - Climbing Takahashi](https://zenn.dev/hyperdb/articles/f01fb47ce8a007)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
