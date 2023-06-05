@@ -390,5 +390,7 @@
 - [ABC-236｜B - Who is missing?](https://zenn.dev/hyperdb/articles/004e159c3e8d8c)
 - [ABC-237｜A - Not Overflow](https://zenn.dev/hyperdb/articles/7813c4b452e247)
 - [ABC-237｜B - Matrix Transposition](https://zenn.dev/hyperdb/articles/b687ce5a9cabf5)
+- [ABC-238｜A - Exponential or Quadratic](https://zenn.dev/hyperdb/articles/d1439257f2538d)
+- [ABC-238｜B - Pizza](https://zenn.dev/hyperdb/articles/6ca881dcd2dafe)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
