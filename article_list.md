@@ -394,5 +394,7 @@
 - [ABC-238｜B - Pizza](https://zenn.dev/hyperdb/articles/6ca881dcd2dafe)
 - [ABC-239｜A - Horizon](https://zenn.dev/hyperdb/articles/2264b43bfa53e7)
 - [ABC-239｜B - Integer Division](https://zenn.dev/hyperdb/articles/6fc7e1b3a07a59)
+- [ABC-240｜A - Edge Checker](https://zenn.dev/hyperdb/articles/ed0adbae811edc)
+- [ABC-240｜B - Count Distinct Integers](https://zenn.dev/hyperdb/articles/16fc207e8354ef)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
