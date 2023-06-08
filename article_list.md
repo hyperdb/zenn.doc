@@ -396,5 +396,7 @@
 - [ABC-239｜B - Integer Division](https://zenn.dev/hyperdb/articles/6fc7e1b3a07a59)
 - [ABC-240｜A - Edge Checker](https://zenn.dev/hyperdb/articles/ed0adbae811edc)
 - [ABC-240｜B - Count Distinct Integers](https://zenn.dev/hyperdb/articles/16fc207e8354ef)
+- [ABC-241｜A - Digit Machine](https://zenn.dev/hyperdb/articles/8fb4920b86cc6f)
+- [ABC-241｜B - Pasta](https://zenn.dev/hyperdb/articles/d5ecf4cdb7b236)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
