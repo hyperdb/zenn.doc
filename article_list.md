@@ -398,5 +398,7 @@
 - [ABC-240｜B - Count Distinct Integers](https://zenn.dev/hyperdb/articles/16fc207e8354ef)
 - [ABC-241｜A - Digit Machine](https://zenn.dev/hyperdb/articles/8fb4920b86cc6f)
 - [ABC-241｜B - Pasta](https://zenn.dev/hyperdb/articles/d5ecf4cdb7b236)
+- [ABC-242｜A - T-shirt](https://zenn.dev/hyperdb/articles/84d04ed7e8b35a)
+- [ABC-242｜B - Minimize Ordering](https://zenn.dev/hyperdb/articles/9a656f714fb506)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
