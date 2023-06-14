@@ -402,5 +402,7 @@
 - [ABC-242｜B - Minimize Ordering](https://zenn.dev/hyperdb/articles/9a656f714fb506)
 - [ABC-243｜A - Shampoo](https://zenn.dev/hyperdb/articles/6eaf4ac9c2401c)
 - [ABC-243｜B - Hit and Blow](https://zenn.dev/hyperdb/articles/d37328d0c5ca4d)
+- [ABC-244｜A - Last Letter](https://zenn.dev/hyperdb/articles/70461804ade8e4)
+- [ABC-244｜B - Go Straight and Turn Right](https://zenn.dev/hyperdb/articles/27f38486626452)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
