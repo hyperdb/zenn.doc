@@ -404,5 +404,7 @@
 - [ABC-243｜B - Hit and Blow](https://zenn.dev/hyperdb/articles/d37328d0c5ca4d)
 - [ABC-244｜A - Last Letter](https://zenn.dev/hyperdb/articles/70461804ade8e4)
 - [ABC-244｜B - Go Straight and Turn Right](https://zenn.dev/hyperdb/articles/27f38486626452)
+- [ABC-245｜A - Good morning](https://zenn.dev/hyperdb/articles/70af1b3b7dcf1a)
+- [ABC-245｜B - Mex](https://zenn.dev/hyperdb/articles/c71de0e05fa9ed)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
