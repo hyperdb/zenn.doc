@@ -406,5 +406,7 @@
 - [ABC-244｜B - Go Straight and Turn Right](https://zenn.dev/hyperdb/articles/27f38486626452)
 - [ABC-245｜A - Good morning](https://zenn.dev/hyperdb/articles/70af1b3b7dcf1a)
 - [ABC-245｜B - Mex](https://zenn.dev/hyperdb/articles/c71de0e05fa9ed)
+- [ABC-246｜A - Four Points](https://zenn.dev/hyperdb/articles/1ac2048733c9d8)
+- [ABC-246｜B - Get Closer](https://zenn.dev/hyperdb/articles/f06ff5d625ab2f)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
