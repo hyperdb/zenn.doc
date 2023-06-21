@@ -412,5 +412,7 @@
 - [ABC-247｜B - Unique Nicknames](https://zenn.dev/hyperdb/articles/4fa1fe673729e7)
 - [ABC-248｜A - Lacked Number](https://zenn.dev/hyperdb/articles/73bf3080df52b8)
 - [ABC-248｜B - Slimes](https://zenn.dev/hyperdb/articles/c796166b475fbc)
+- [ABC-249｜A - Jogging](https://zenn.dev/hyperdb/articles/0354639afecd99)
+- [ABC-249｜B - Perfect String](https://zenn.dev/hyperdb/articles/50d65bc1d83fa0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
