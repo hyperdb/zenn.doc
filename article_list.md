@@ -414,5 +414,7 @@
 - [ABC-248｜B - Slimes](https://zenn.dev/hyperdb/articles/c796166b475fbc)
 - [ABC-249｜A - Jogging](https://zenn.dev/hyperdb/articles/0354639afecd99)
 - [ABC-249｜B - Perfect String](https://zenn.dev/hyperdb/articles/50d65bc1d83fa0)
+- [ABC-250｜A - Adjacent Squares](https://zenn.dev/hyperdb/articles/3aa1cd8fc54066)
+- [ABC-250｜B - Enlarged Checker Board](https://zenn.dev/hyperdb/articles/de32278828344a)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
