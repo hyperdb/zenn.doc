@@ -420,5 +420,7 @@
 - [ABC-251｜B - At Most 3 (Judge ver.)](https://zenn.dev/hyperdb/articles/8e00a75cb73414)
 - [ABC-252｜A - ASCII code](https://zenn.dev/hyperdb/articles/aed58970ec338b)
 - [ABC-252｜B - Takahashi's Failure](https://zenn.dev/hyperdb/articles/dd63e4dcb0c79d)
+- [ABC-253｜A - Median?](https://zenn.dev/hyperdb/articles/5fc9ec36197196)
+- [ABC-253｜B - Distance Between Tokens](https://zenn.dev/hyperdb/articles/fefccde6ea7fd6)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
