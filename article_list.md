@@ -422,5 +422,7 @@
 - [ABC-252｜B - Takahashi's Failure](https://zenn.dev/hyperdb/articles/dd63e4dcb0c79d)
 - [ABC-253｜A - Median?](https://zenn.dev/hyperdb/articles/5fc9ec36197196)
 - [ABC-253｜B - Distance Between Tokens](https://zenn.dev/hyperdb/articles/fefccde6ea7fd6)
+- [ABC-254｜A - Last Two Digits](https://zenn.dev/hyperdb/articles/9959685dd9e862)
+- [ABC-254｜B - Practical Computing](https://zenn.dev/hyperdb/articles/334786dd3084ed)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
