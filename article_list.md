@@ -424,5 +424,7 @@
 - [ABC-253｜B - Distance Between Tokens](https://zenn.dev/hyperdb/articles/fefccde6ea7fd6)
 - [ABC-254｜A - Last Two Digits](https://zenn.dev/hyperdb/articles/9959685dd9e862)
 - [ABC-254｜B - Practical Computing](https://zenn.dev/hyperdb/articles/334786dd3084ed)
+- [ABC-255｜A - You should output ARC, though this is ABC.](https://zenn.dev/hyperdb/articles/5ea8b9cbe99d60)
+- [ABC-255｜B - Light It Up](https://zenn.dev/hyperdb/articles/e3b2d71b198a01)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
