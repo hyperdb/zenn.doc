@@ -428,5 +428,7 @@
 - [ABC-255｜B - Light It Up](https://zenn.dev/hyperdb/articles/e3b2d71b198a01)
 - [ABC-256｜A - 2^N](https://zenn.dev/hyperdb/articles/6361434b566dd3)
 - [ABC-256｜B - Batters](https://zenn.dev/hyperdb/articles/e53b87442800d1)
+- [ABC-257｜A - A to Z String 2](https://zenn.dev/hyperdb/articles/0f457f6354eda2)
+- [ABC-257｜B - 1D Pawn](https://zenn.dev/hyperdb/articles/28888942bbb745)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
