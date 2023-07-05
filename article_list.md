@@ -432,5 +432,7 @@
 - [ABC-257｜B - 1D Pawn](https://zenn.dev/hyperdb/articles/28888942bbb745)
 - [ABC-258｜A - When?](https://zenn.dev/hyperdb/articles/5dbfdf2bf1aac5)
 - [ABC-258｜B - Number Box](https://zenn.dev/hyperdb/articles/d8ad36dfd3ac00)
+- [ABC-259｜A - Growth Record](https://zenn.dev/hyperdb/articles/3741083278bce9)
+- [ABC-259｜B - Counterclockwise Rotation](https://zenn.dev/hyperdb/articles/057689b9f095d0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
