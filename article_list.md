@@ -434,5 +434,7 @@
 - [ABC-258｜B - Number Box](https://zenn.dev/hyperdb/articles/d8ad36dfd3ac00)
 - [ABC-259｜A - Growth Record](https://zenn.dev/hyperdb/articles/3741083278bce9)
 - [ABC-259｜B - Counterclockwise Rotation](https://zenn.dev/hyperdb/articles/057689b9f095d0)
+- [ABC-260｜A - A Unique Letter](https://zenn.dev/hyperdb/articles/263ebb79f0bf6f)
+- [ABC-260｜B - Better Students Are Needed!](https://zenn.dev/hyperdb/articles/4714ab6806cb4f)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
