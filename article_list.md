@@ -436,5 +436,7 @@
 - [ABC-259｜B - Counterclockwise Rotation](https://zenn.dev/hyperdb/articles/057689b9f095d0)
 - [ABC-260｜A - A Unique Letter](https://zenn.dev/hyperdb/articles/263ebb79f0bf6f)
 - [ABC-260｜B - Better Students Are Needed!](https://zenn.dev/hyperdb/articles/4714ab6806cb4f)
+- [ABC-261｜A - Intersection](https://zenn.dev/hyperdb/articles/57eea2edf555b8)
+- [ABC-261｜B - Tournament Result](https://zenn.dev/hyperdb/articles/9982e0e7e440b2)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
