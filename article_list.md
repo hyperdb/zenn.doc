@@ -440,5 +440,7 @@
 - [ABC-261｜B - Tournament Result](https://zenn.dev/hyperdb/articles/9982e0e7e440b2)
 - [ABC-262｜A - World Cup](https://zenn.dev/hyperdb/articles/9f7834a25a5e7b)
 - [ABC-262｜B - Triangle (Easier)](https://zenn.dev/hyperdb/articles/5458abf3e53679)
+- [ABC-263｜A - Full House](https://zenn.dev/hyperdb/articles/05f7f07943065f)
+- [ABC-263｜B - Ancestor](https://zenn.dev/hyperdb/articles/610741ee3541e8)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
