@@ -442,7 +442,7 @@
 - [ABC-262｜B - Triangle (Easier)](https://zenn.dev/hyperdb/articles/5458abf3e53679)
 - [ABC-263｜A - Full House](https://zenn.dev/hyperdb/articles/05f7f07943065f)
 - [ABC-263｜B - Ancestor](https://zenn.dev/hyperdb/articles/610741ee3541e8)
-- [ABC-264｜A - &quot;2atcoder&quot;.substr()](https://zenn.dev/hyperdb/articles/2c46d1a8319ec3)
+- [ABC-264｜A -'2atcoder'.substr()](https://zenn.dev/hyperdb/articles/2c46d1a8319ec3)
 - [ABC-264｜B - Nice Grid](https://zenn.dev/hyperdb/articles/30a2949ebd7459)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
