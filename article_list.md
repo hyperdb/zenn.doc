@@ -448,5 +448,7 @@
 - [ABC-265｜B - Explore](https://zenn.dev/hyperdb/articles/be5f15d75a99c7)
 - [ABC-266｜A - Middle Letter](https://zenn.dev/hyperdb/articles/06b758b35e9ce5)
 - [ABC-266｜B - Modulo Number](https://zenn.dev/hyperdb/articles/c981b2fe1ce0c9)
+- [ABC-267｜A - Saturday](https://zenn.dev/hyperdb/articles/913ef1d7591e3b)
+- [ABC-267｜B - Split?](https://zenn.dev/hyperdb/articles/07b09b5d3cc8d6)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
