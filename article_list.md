@@ -452,5 +452,7 @@
 - [ABC-267｜B - Split?](https://zenn.dev/hyperdb/articles/07b09b5d3cc8d6)
 - [ABC-268｜A - Five Integers](https://zenn.dev/hyperdb/articles/5468c04eb52f0f)
 - [ABC-268｜B - Prefix?](https://zenn.dev/hyperdb/articles/fe2c94bf23771f)
+- [ABC-269｜A - Anyway Takahashi](https://zenn.dev/hyperdb/articles/0499eba33f67ec)
+- [ABC-269｜B - Rectangle Detection](https://zenn.dev/hyperdb/articles/2682bc514ef2ce)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
