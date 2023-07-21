@@ -454,5 +454,7 @@
 - [ABC-268｜B - Prefix?](https://zenn.dev/hyperdb/articles/fe2c94bf23771f)
 - [ABC-269｜A - Anyway Takahashi](https://zenn.dev/hyperdb/articles/0499eba33f67ec)
 - [ABC-269｜B - Rectangle Detection](https://zenn.dev/hyperdb/articles/2682bc514ef2ce)
+- [ABC-270｜A - 1-2-4 Test](https://zenn.dev/hyperdb/articles/97bd1b0daf96f5)
+- [ABC-270｜B - Hammer](https://zenn.dev/hyperdb/articles/62453f2b3ae522)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
