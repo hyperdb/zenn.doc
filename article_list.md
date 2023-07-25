@@ -456,5 +456,7 @@
 - [ABC-269｜B - Rectangle Detection](https://zenn.dev/hyperdb/articles/2682bc514ef2ce)
 - [ABC-270｜A - 1-2-4 Test](https://zenn.dev/hyperdb/articles/97bd1b0daf96f5)
 - [ABC-270｜B - Hammer](https://zenn.dev/hyperdb/articles/62453f2b3ae522)
+- [ABC-271｜A - 484558](https://zenn.dev/hyperdb/articles/42c11236a8604e)
+- [ABC-271｜B - Maintain Multiple Sequences](https://zenn.dev/hyperdb/articles/b0937269e64815)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
