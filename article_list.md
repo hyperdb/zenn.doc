@@ -458,5 +458,7 @@
 - [ABC-270｜B - Hammer](https://zenn.dev/hyperdb/articles/62453f2b3ae522)
 - [ABC-271｜A - 484558](https://zenn.dev/hyperdb/articles/42c11236a8604e)
 - [ABC-271｜B - Maintain Multiple Sequences](https://zenn.dev/hyperdb/articles/b0937269e64815)
+- [ABC-272｜A - Integer Sum](https://zenn.dev/hyperdb/articles/5ef0737e701621)
+- [ABC-272｜B - Everyone is Friends](https://zenn.dev/hyperdb/articles/796178b37b3759)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
