@@ -464,5 +464,7 @@
 - [ABC-273｜B - Broken Rounding](https://zenn.dev/hyperdb/articles/2c86e4994dd123)
 - [ABC-274｜A - Batting Average](https://zenn.dev/hyperdb/articles/e91c7834a02f29)
 - [ABC-274｜B - Line Sensor](https://zenn.dev/hyperdb/articles/37fa09df54473d)
+- [ABC-275｜A - Find Takahashi](https://zenn.dev/hyperdb/articles/1642b68501910c)
+- [ABC-275｜B - ABC-DEF](https://zenn.dev/hyperdb/articles/43e8e5b916b7b1)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
