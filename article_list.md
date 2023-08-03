@@ -468,5 +468,7 @@
 - [ABC-275｜B - ABC-DEF](https://zenn.dev/hyperdb/articles/43e8e5b916b7b1)
 - [ABC-276｜A - Rightmost](https://zenn.dev/hyperdb/articles/65567fc9f436fc)
 - [ABC-276｜B - Adjacency List](https://zenn.dev/hyperdb/articles/8e3c4f5eeabf8d)
+- [ABC-277｜A - ^{-1}](https://zenn.dev/hyperdb/articles/db2354e1072258)
+- [ABC-277｜B - Playing Cards Validation](https://zenn.dev/hyperdb/articles/a80efef5111bc5)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
