@@ -470,5 +470,7 @@
 - [ABC-276｜B - Adjacency List](https://zenn.dev/hyperdb/articles/8e3c4f5eeabf8d)
 - [ABC-277｜A - ^{-1}](https://zenn.dev/hyperdb/articles/db2354e1072258)
 - [ABC-277｜B - Playing Cards Validation](https://zenn.dev/hyperdb/articles/a80efef5111bc5)
+- [ABC-278｜A - Shift](https://zenn.dev/hyperdb/articles/32d96c950b2a5d)
+- [ABC-278｜B - Misjudge the Time](https://zenn.dev/hyperdb/articles/fd7dd6dc2fb1c0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
