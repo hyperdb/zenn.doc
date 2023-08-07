@@ -472,5 +472,7 @@
 - [ABC-277｜B - Playing Cards Validation](https://zenn.dev/hyperdb/articles/a80efef5111bc5)
 - [ABC-278｜A - Shift](https://zenn.dev/hyperdb/articles/32d96c950b2a5d)
 - [ABC-278｜B - Misjudge the Time](https://zenn.dev/hyperdb/articles/fd7dd6dc2fb1c0)
+- [ABC-279｜A - wwwvvvvvv](https://zenn.dev/hyperdb/articles/91367b290f84eb)
+- [ABC-279｜B - LOOKUP](https://zenn.dev/hyperdb/articles/31e47fc7e2f34e)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
