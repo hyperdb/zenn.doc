@@ -474,5 +474,7 @@
 - [ABC-278｜B - Misjudge the Time](https://zenn.dev/hyperdb/articles/fd7dd6dc2fb1c0)
 - [ABC-279｜A - wwwvvvvvv](https://zenn.dev/hyperdb/articles/91367b290f84eb)
 - [ABC-279｜B - LOOKUP](https://zenn.dev/hyperdb/articles/31e47fc7e2f34e)
+- [ABC-280｜A - Pawn on a Grid](https://zenn.dev/hyperdb/articles/fa31d212f0a19e)
+- [ABC-280｜B - Inverse Prefix Sum](https://zenn.dev/hyperdb/articles/a55b4a9963160a)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
