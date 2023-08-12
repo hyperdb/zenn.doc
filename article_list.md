@@ -478,5 +478,7 @@
 - [ABC-280｜B - Inverse Prefix Sum](https://zenn.dev/hyperdb/articles/a55b4a9963160a)
 - [ABC-281｜A - Count Down](https://zenn.dev/hyperdb/articles/dec79f345830b2)
 - [ABC-281｜B - Sandwich Number](https://zenn.dev/hyperdb/articles/30543d974f34dc)
+- [ABC-282｜A - Generalized ABC](https://zenn.dev/hyperdb/articles/3892c3b453b3f9)
+- [ABC-282｜B - Let's Get a Perfect Score](https://zenn.dev/hyperdb/articles/8d0d9e8035461e)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
