@@ -482,5 +482,7 @@
 - [ABC-282｜B - Let's Get a Perfect Score](https://zenn.dev/hyperdb/articles/8d0d9e8035461e)
 - [ABC-283｜A - Power](https://zenn.dev/hyperdb/articles/1c5121eb9b9f24)
 - [ABC-283｜B - First Query Problem](https://zenn.dev/hyperdb/articles/840d5a033cb0d9)
+- [ABC-284｜A - Sequence of Strings](https://zenn.dev/hyperdb/articles/526538c9f9885e)
+- [ABC-284｜B - Multi Test Cases](https://zenn.dev/hyperdb/articles/b5e79f26954c32)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
