@@ -484,5 +484,7 @@
 - [ABC-283｜B - First Query Problem](https://zenn.dev/hyperdb/articles/840d5a033cb0d9)
 - [ABC-284｜A - Sequence of Strings](https://zenn.dev/hyperdb/articles/526538c9f9885e)
 - [ABC-284｜B - Multi Test Cases](https://zenn.dev/hyperdb/articles/b5e79f26954c32)
+- [ABC-285｜A - Edge Checker 2](https://zenn.dev/hyperdb/articles/c17cfaded6ee93)
+- [ABC-285｜B - Longest Uncommon Prefix](https://zenn.dev/hyperdb/articles/cce1a3f76f31fb)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
