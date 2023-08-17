@@ -486,5 +486,7 @@
 - [ABC-284｜B - Multi Test Cases](https://zenn.dev/hyperdb/articles/b5e79f26954c32)
 - [ABC-285｜A - Edge Checker 2](https://zenn.dev/hyperdb/articles/c17cfaded6ee93)
 - [ABC-285｜B - Longest Uncommon Prefix](https://zenn.dev/hyperdb/articles/cce1a3f76f31fb)
+- [ABC-286｜A - Range Swap](https://zenn.dev/hyperdb/articles/6fd053d1bf865b)
+- [ABC-286｜B - Cat](https://zenn.dev/hyperdb/articles/84f638f4bf4f25)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
