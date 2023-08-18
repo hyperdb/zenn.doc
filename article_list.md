@@ -488,5 +488,7 @@
 - [ABC-285｜B - Longest Uncommon Prefix](https://zenn.dev/hyperdb/articles/cce1a3f76f31fb)
 - [ABC-286｜A - Range Swap](https://zenn.dev/hyperdb/articles/6fd053d1bf865b)
 - [ABC-286｜B - Cat](https://zenn.dev/hyperdb/articles/84f638f4bf4f25)
+- [ABC-287｜A - Majority](https://zenn.dev/hyperdb/articles/35c1e129b376a8)
+- [ABC-287｜B - Postal Card](https://zenn.dev/hyperdb/articles/9e89a6c3f82150)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
