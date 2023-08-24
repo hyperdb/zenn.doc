@@ -496,5 +496,7 @@
 - [ABC-289｜B - レ](https://zenn.dev/hyperdb/articles/957a8659f4eba1)
 - [ABC-290｜A - Contest Result](https://zenn.dev/hyperdb/articles/67aa7c83eb6068)
 - [ABC-290｜B - Qual B](https://zenn.dev/hyperdb/articles/c9734bf6ad7c0a)
+- [ABC-291｜A - camel Case](https://zenn.dev/hyperdb/articles/7e5ed3e2d65db7)
+- [ABC-291｜B - Trimmed Mean](https://zenn.dev/hyperdb/articles/91f1cc180318d5)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
