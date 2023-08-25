@@ -498,5 +498,7 @@
 - [ABC-290｜B - Qual B](https://zenn.dev/hyperdb/articles/c9734bf6ad7c0a)
 - [ABC-291｜A - camel Case](https://zenn.dev/hyperdb/articles/7e5ed3e2d65db7)
 - [ABC-291｜B - Trimmed Mean](https://zenn.dev/hyperdb/articles/91f1cc180318d5)
+- [ABC-292｜A - CAPS LOCK](https://zenn.dev/hyperdb/articles/942930634a99e4)
+- [ABC-292｜B - Yellow and Red Card](https://zenn.dev/hyperdb/articles/d56c492a01aedd)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
