@@ -500,5 +500,7 @@
 - [ABC-291｜B - Trimmed Mean](https://zenn.dev/hyperdb/articles/91f1cc180318d5)
 - [ABC-292｜A - CAPS LOCK](https://zenn.dev/hyperdb/articles/942930634a99e4)
 - [ABC-292｜B - Yellow and Red Card](https://zenn.dev/hyperdb/articles/d56c492a01aedd)
+- [ABC-293｜A - Swap Odd and Even](https://zenn.dev/hyperdb/articles/f3fc0c304664d1)
+- [ABC-293｜B - Call the ID Number](https://zenn.dev/hyperdb/articles/dbb58b46626623)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
