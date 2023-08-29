@@ -502,5 +502,7 @@
 - [ABC-292｜B - Yellow and Red Card](https://zenn.dev/hyperdb/articles/d56c492a01aedd)
 - [ABC-293｜A - Swap Odd and Even](https://zenn.dev/hyperdb/articles/f3fc0c304664d1)
 - [ABC-293｜B - Call the ID Number](https://zenn.dev/hyperdb/articles/dbb58b46626623)
+- [ABC-294｜A - Filter](https://zenn.dev/hyperdb/articles/fb995e930cf0c1)
+- [ABC-294｜B - ASCII Art](https://zenn.dev/hyperdb/articles/1f21f49cdf37d5)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
