@@ -504,5 +504,7 @@
 - [ABC-293｜B - Call the ID Number](https://zenn.dev/hyperdb/articles/dbb58b46626623)
 - [ABC-294｜A - Filter](https://zenn.dev/hyperdb/articles/fb995e930cf0c1)
 - [ABC-294｜B - ASCII Art](https://zenn.dev/hyperdb/articles/1f21f49cdf37d5)
+- [ABC-295｜A - Probably English](https://zenn.dev/hyperdb/articles/a3bbb772add1f8)
+- [ABC-295｜B - Bombs](https://zenn.dev/hyperdb/articles/664232fa21aa5b)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
