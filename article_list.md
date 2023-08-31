@@ -506,5 +506,7 @@
 - [ABC-294｜B - ASCII Art](https://zenn.dev/hyperdb/articles/1f21f49cdf37d5)
 - [ABC-295｜A - Probably English](https://zenn.dev/hyperdb/articles/a3bbb772add1f8)
 - [ABC-295｜B - Bombs](https://zenn.dev/hyperdb/articles/664232fa21aa5b)
+- [ABC-296｜A - Alternately](https://zenn.dev/hyperdb/articles/bdd8a22ba9d6f9)
+- [ABC-296｜B - Chessboard](https://zenn.dev/hyperdb/articles/95d1b7b3b2c836)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
