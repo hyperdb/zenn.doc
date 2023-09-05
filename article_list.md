@@ -512,5 +512,7 @@
 - [ABC-297｜B - chess960](https://zenn.dev/hyperdb/articles/ce2d0f2fe9dc6f)
 - [ABC-298｜A - Job Interview](https://zenn.dev/hyperdb/articles/b2a0f44d3e6bc7)
 - [ABC-298｜B - Coloring Matrix](https://zenn.dev/hyperdb/articles/6144f611f7eadb)
+- [ABC-299｜A - Treasure Chest](https://zenn.dev/hyperdb/articles/75aa806a5a4a1d)
+- [ABC-299｜B - Trick Taking](https://zenn.dev/hyperdb/articles/daa9c8ec47568a)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
