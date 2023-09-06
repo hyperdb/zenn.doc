@@ -514,5 +514,7 @@
 - [ABC-298｜B - Coloring Matrix](https://zenn.dev/hyperdb/articles/6144f611f7eadb)
 - [ABC-299｜A - Treasure Chest](https://zenn.dev/hyperdb/articles/75aa806a5a4a1d)
 - [ABC-299｜B - Trick Taking](https://zenn.dev/hyperdb/articles/daa9c8ec47568a)
+- [ABC-300｜A - N-choice question](https://zenn.dev/hyperdb/articles/6083bb53238640)
+- [ABC-300｜B - Same Map in the RPG World](https://zenn.dev/hyperdb/articles/dcb0e8eb956501)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
