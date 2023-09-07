@@ -516,5 +516,7 @@
 - [ABC-299｜B - Trick Taking](https://zenn.dev/hyperdb/articles/daa9c8ec47568a)
 - [ABC-300｜A - N-choice question](https://zenn.dev/hyperdb/articles/6083bb53238640)
 - [ABC-300｜B - Same Map in the RPG World](https://zenn.dev/hyperdb/articles/dcb0e8eb956501)
+- [ABC-301｜A - Overall Winner](https://zenn.dev/hyperdb/articles/e5cd8f33349121)
+- [ABC-301｜B - Fill the Gaps](https://zenn.dev/hyperdb/articles/646f8ed4b4f3a8)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
