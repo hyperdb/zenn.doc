@@ -520,5 +520,7 @@
 - [ABC-301｜B - Fill the Gaps](https://zenn.dev/hyperdb/articles/646f8ed4b4f3a8)
 - [ABC-302｜A - Attack](https://zenn.dev/hyperdb/articles/bfd92e1cea3b76)
 - [ABC-302｜B - Find snuke](https://zenn.dev/hyperdb/articles/af130ee6bf2127)
+- [ABC-303｜A - Similar String](https://zenn.dev/hyperdb/articles/b050ac627bfe63)
+- [ABC-303｜B - Discord](https://zenn.dev/hyperdb/articles/03c9e079fbff32)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
