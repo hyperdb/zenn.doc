@@ -522,5 +522,7 @@
 - [ABC-302｜B - Find snuke](https://zenn.dev/hyperdb/articles/af130ee6bf2127)
 - [ABC-303｜A - Similar String](https://zenn.dev/hyperdb/articles/b050ac627bfe63)
 - [ABC-303｜B - Discord](https://zenn.dev/hyperdb/articles/03c9e079fbff32)
+- [ABC-304｜A - First Player](https://zenn.dev/hyperdb/articles/b042faf0eb933f)
+- [ABC-304｜B - Subscribers](https://zenn.dev/hyperdb/articles/937d0041cfeffe)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
