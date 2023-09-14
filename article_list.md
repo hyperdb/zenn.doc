@@ -524,5 +524,7 @@
 - [ABC-303｜B - Discord](https://zenn.dev/hyperdb/articles/03c9e079fbff32)
 - [ABC-304｜A - First Player](https://zenn.dev/hyperdb/articles/b042faf0eb933f)
 - [ABC-304｜B - Subscribers](https://zenn.dev/hyperdb/articles/937d0041cfeffe)
+- [ABC-305｜A - Water Station](https://zenn.dev/hyperdb/articles/f9734172210f8e)
+- [ABC-305｜B - ABCDEFG](https://zenn.dev/hyperdb/articles/d1e5c40c4ea5ac)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
