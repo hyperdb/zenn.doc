@@ -528,5 +528,7 @@
 - [ABC-305｜B - ABCDEFG](https://zenn.dev/hyperdb/articles/d1e5c40c4ea5ac)
 - [ABC-306｜A - Echo](https://zenn.dev/hyperdb/articles/6bf2e05726cd46)
 - [ABC-306｜B - Base 2](https://zenn.dev/hyperdb/articles/b75844912efd6e)
+- [ABC-307｜A - Weekly Records](https://zenn.dev/hyperdb/articles/8903e896f6e2a2)
+- [ABC-307｜B - racecar](https://zenn.dev/hyperdb/articles/f5a319586ffcf0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
