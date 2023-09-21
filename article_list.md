@@ -532,5 +532,7 @@
 - [ABC-307｜B - racecar](https://zenn.dev/hyperdb/articles/f5a319586ffcf0)
 - [ABC-308｜A - New Scheme](https://zenn.dev/hyperdb/articles/0ca903939b174c)
 - [ABC-308｜B - Default Price](https://zenn.dev/hyperdb/articles/ffd44d2aefd55c)
+- [ABC-309｜A - Nine](https://zenn.dev/hyperdb/articles/91e153865fdc9a)
+- [ABC-309｜B - Rotate](https://zenn.dev/hyperdb/articles/1a9448bb9fc2c2)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
