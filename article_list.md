@@ -534,5 +534,7 @@
 - [ABC-308｜B - Default Price](https://zenn.dev/hyperdb/articles/ffd44d2aefd55c)
 - [ABC-309｜A - Nine](https://zenn.dev/hyperdb/articles/91e153865fdc9a)
 - [ABC-309｜B - Rotate](https://zenn.dev/hyperdb/articles/1a9448bb9fc2c2)
+- [ABC-310｜A - Order Something Else](https://zenn.dev/hyperdb/articles/0cbb4c118e2ca4)
+- [ABC-310｜B - Strictly Superior](https://zenn.dev/hyperdb/articles/5a1fb5c71078c2)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
