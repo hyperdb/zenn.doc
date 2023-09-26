@@ -538,5 +538,7 @@
 - [ABC-310｜B - Strictly Superior](https://zenn.dev/hyperdb/articles/5a1fb5c71078c2)
 - [ABC-311｜A - First ABC](https://zenn.dev/hyperdb/articles/59ca91228a3158)
 - [ABC-311｜B - Vacation Together](https://zenn.dev/hyperdb/articles/9d3e5ddee2b33f)
+- [ABC-312｜A - Chord](https://zenn.dev/hyperdb/articles/cb44aff7b662bd)
+- [ABC-312｜B - TaK Code](https://zenn.dev/hyperdb/articles/b5f4d1e88272fa)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
