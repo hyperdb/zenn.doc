@@ -542,5 +542,7 @@
 - [ABC-312｜B - TaK Code](https://zenn.dev/hyperdb/articles/b5f4d1e88272fa)
 - [ABC-313｜A - To Be Saikyo](https://zenn.dev/hyperdb/articles/54b5f1cfe5a407)
 - [ABC-313｜B - Who is Saikyo?](https://zenn.dev/hyperdb/articles/5d0b824fb24082)
+- [ABC-314｜A - 3.14](https://zenn.dev/hyperdb/articles/7b808932e044b3)
+- [ABC-314｜B - Roulette](https://zenn.dev/hyperdb/articles/aabd8cf6b8531b)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
