@@ -544,5 +544,7 @@
 - [ABC-313｜B - Who is Saikyo?](https://zenn.dev/hyperdb/articles/5d0b824fb24082)
 - [ABC-314｜A - 3.14](https://zenn.dev/hyperdb/articles/7b808932e044b3)
 - [ABC-314｜B - Roulette](https://zenn.dev/hyperdb/articles/aabd8cf6b8531b)
+- [ABC-315｜A - tcdr](https://zenn.dev/hyperdb/articles/e3123d9d545c2f)
+- [ABC-315｜B - The Middle Day](https://zenn.dev/hyperdb/articles/bffa54a5e72b24)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
