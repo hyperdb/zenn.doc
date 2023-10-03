@@ -548,5 +548,7 @@
 - [ABC-315｜B - The Middle Day](https://zenn.dev/hyperdb/articles/bffa54a5e72b24)
 - [ABC-317｜A - Potions](https://zenn.dev/hyperdb/articles/887cef1f3a14f8)
 - [ABC-317｜B - MissingNo.](https://zenn.dev/hyperdb/articles/dbbaaa1db39f4c)
+- [ABC-318｜A - Full Moon](https://zenn.dev/hyperdb/articles/2657d97d909f0b)
+- [ABC-318｜B - Overlapping sheets](https://zenn.dev/hyperdb/articles/22275b66bab66a)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
