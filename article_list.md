@@ -552,5 +552,7 @@
 - [ABC-318｜B - Overlapping sheets](https://zenn.dev/hyperdb/articles/22275b66bab66a)
 - [ABC-319｜A - Legendary Players](https://zenn.dev/hyperdb/articles/f0d60808c79988)
 - [ABC-319｜B - Measure](https://zenn.dev/hyperdb/articles/94903215e001eb)
+- [ABC-320｜A - Leyland Number](https://zenn.dev/hyperdb/articles/8a84ecc784b47a)
+- [ABC-320｜B - Longest Palindrome](https://zenn.dev/hyperdb/articles/1fdaa82f30a397)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
