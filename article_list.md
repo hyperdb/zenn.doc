@@ -554,5 +554,6 @@
 - [ABC-319｜B - Measure](https://zenn.dev/hyperdb/articles/94903215e001eb)
 - [ABC-320｜A - Leyland Number](https://zenn.dev/hyperdb/articles/8a84ecc784b47a)
 - [ABC-320｜B - Longest Palindrome](https://zenn.dev/hyperdb/articles/1fdaa82f30a397)
+- [ABC-320｜C - Slot Strategy 2 (Easy)](https://zenn.dev/hyperdb/articles/c24a804ac30e4f)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
