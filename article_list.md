@@ -552,6 +552,7 @@
 - [ABC-318｜B - Overlapping sheets](https://zenn.dev/hyperdb/articles/22275b66bab66a)
 - [ABC-319｜A - Legendary Players](https://zenn.dev/hyperdb/articles/f0d60808c79988)
 - [ABC-319｜B - Measure](https://zenn.dev/hyperdb/articles/94903215e001eb)
+- [ABC-319｜C - False Hope](https://zenn.dev/hyperdb/articles/dc840d20c9066f)
 - [ABC-320｜A - Leyland Number](https://zenn.dev/hyperdb/articles/8a84ecc784b47a)
 - [ABC-320｜B - Longest Palindrome](https://zenn.dev/hyperdb/articles/1fdaa82f30a397)
 - [ABC-320｜C - Slot Strategy 2 (Easy)](https://zenn.dev/hyperdb/articles/c24a804ac30e4f)
