@@ -538,6 +538,7 @@
 - [ABC-310｜B - Strictly Superior](https://zenn.dev/hyperdb/articles/5a1fb5c71078c2)
 - [ABC-311｜A - First ABC](https://zenn.dev/hyperdb/articles/59ca91228a3158)
 - [ABC-311｜B - Vacation Together](https://zenn.dev/hyperdb/articles/9d3e5ddee2b33f)
+- [ABC-311｜C - Find it!](https://zenn.dev/hyperdb/articles/40f3afa7efce22)
 - [ABC-312｜A - Chord](https://zenn.dev/hyperdb/articles/cb44aff7b662bd)
 - [ABC-312｜B - TaK Code](https://zenn.dev/hyperdb/articles/b5f4d1e88272fa)
 - [ABC-313｜A - To Be Saikyo](https://zenn.dev/hyperdb/articles/54b5f1cfe5a407)
