@@ -544,6 +544,7 @@
 - [ABC-312｜C - Invisible Hand](https://zenn.dev/hyperdb/articles/6d5e5b969842d7)
 - [ABC-313｜A - To Be Saikyo](https://zenn.dev/hyperdb/articles/54b5f1cfe5a407)
 - [ABC-313｜B - Who is Saikyo?](https://zenn.dev/hyperdb/articles/5d0b824fb24082)
+- [ABC-313｜C - Approximate Equalization 2](https://zenn.dev/hyperdb/articles/9568f4b8e6e0e6)
 - [ABC-314｜A - 3.14](https://zenn.dev/hyperdb/articles/7b808932e044b3)
 - [ABC-314｜B - Roulette](https://zenn.dev/hyperdb/articles/aabd8cf6b8531b)
 - [ABC-315｜A - tcdr](https://zenn.dev/hyperdb/articles/e3123d9d545c2f)
