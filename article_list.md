@@ -562,5 +562,7 @@
 - [ABC-320｜C - Slot Strategy 2 (Easy)](https://zenn.dev/hyperdb/articles/c24a804ac30e4f)
 - [ABC-321｜A - 321-like Checker](https://zenn.dev/hyperdb/articles/b155fb3ddb2249)
 - [ABC-321｜B - Cutoff](https://zenn.dev/hyperdb/articles/c676a032e6ec2c)
+- [ABC-322｜A - First ABC 2](https://zenn.dev/hyperdb/articles/97b85fca6411f9)
+- [ABC-322｜B - Prefix and Suffix](https://zenn.dev/hyperdb/articles/fbb42ca56b55d3)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
