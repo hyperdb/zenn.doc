@@ -564,5 +564,7 @@
 - [ABC-321｜B - Cutoff](https://zenn.dev/hyperdb/articles/c676a032e6ec2c)
 - [ABC-322｜A - First ABC 2](https://zenn.dev/hyperdb/articles/97b85fca6411f9)
 - [ABC-322｜B - Prefix and Suffix](https://zenn.dev/hyperdb/articles/fbb42ca56b55d3)
+- [ABC-323｜A - Weak Beats](https://zenn.dev/hyperdb/articles/6bb0d8d2903328)
+- [ABC-323｜B - Round-Robin Tournament](https://zenn.dev/hyperdb/articles/9c34c2fde19277)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
