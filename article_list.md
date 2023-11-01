@@ -566,5 +566,7 @@
 - [ABC-322｜B - Prefix and Suffix](https://zenn.dev/hyperdb/articles/fbb42ca56b55d3)
 - [ABC-323｜A - Weak Beats](https://zenn.dev/hyperdb/articles/6bb0d8d2903328)
 - [ABC-323｜B - Round-Robin Tournament](https://zenn.dev/hyperdb/articles/9c34c2fde19277)
+- [ABC-324｜A - Same](https://zenn.dev/hyperdb/articles/2ba55f46acc5af)
+- [ABC-324｜B - 3-smooth Numbers](https://zenn.dev/hyperdb/articles/b71b8f48b8babb)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
