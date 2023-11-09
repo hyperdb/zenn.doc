@@ -568,5 +568,7 @@
 - [ABC-323｜B - Round-Robin Tournament](https://zenn.dev/hyperdb/articles/9c34c2fde19277)
 - [ABC-324｜A - Same](https://zenn.dev/hyperdb/articles/2ba55f46acc5af)
 - [ABC-324｜B - 3-smooth Numbers](https://zenn.dev/hyperdb/articles/b71b8f48b8babb)
+- [ABC-325｜A - Takahashi san](https://zenn.dev/hyperdb/articles/546a97ab4506cc)
+- [ABC-325｜B - World Meeting](https://zenn.dev/hyperdb/articles/83b0e067dd99d0)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
