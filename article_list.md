@@ -572,5 +572,7 @@
 - [ABC-325｜B - World Meeting](https://zenn.dev/hyperdb/articles/83b0e067dd99d0)
 - [ABC-326｜A - 2UP3DOWN](https://zenn.dev/hyperdb/articles/2d8e22b507130f)
 - [ABC-326｜B - 326-like Numbers](https://zenn.dev/hyperdb/articles/bee5c588ee4781)
+- [ABC-327｜A - ab](https://zenn.dev/hyperdb/articles/8fd3370285fa9f)
+- [ABC-327｜B - A^A](https://zenn.dev/hyperdb/articles/f9dff584846cc4)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
