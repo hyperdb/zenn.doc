@@ -574,5 +574,7 @@
 - [ABC-326｜B - 326-like Numbers](https://zenn.dev/hyperdb/articles/bee5c588ee4781)
 - [ABC-327｜A - ab](https://zenn.dev/hyperdb/articles/8fd3370285fa9f)
 - [ABC-327｜B - A^A](https://zenn.dev/hyperdb/articles/f9dff584846cc4)
+- [ABC-328｜A - Not Too Hard](https://zenn.dev/hyperdb/articles/88200d02fad0a7)
+- [ABC-328｜B - 11/11](https://zenn.dev/hyperdb/articles/d12bf8cc7396a6)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
