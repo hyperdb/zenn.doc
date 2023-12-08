@@ -576,5 +576,7 @@
 - [ABC-327｜B - A^A](https://zenn.dev/hyperdb/articles/f9dff584846cc4)
 - [ABC-328｜A - Not Too Hard](https://zenn.dev/hyperdb/articles/88200d02fad0a7)
 - [ABC-328｜B - 11/11](https://zenn.dev/hyperdb/articles/d12bf8cc7396a6)
+- [ABC-329｜A - Spread](https://zenn.dev/hyperdb/articles/498ea68d696201)
+- [ABC-329｜B - Next](https://zenn.dev/hyperdb/articles/a3508767d317b9)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
