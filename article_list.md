@@ -578,5 +578,7 @@
 - [ABC-328｜B - 11/11](https://zenn.dev/hyperdb/articles/d12bf8cc7396a6)
 - [ABC-329｜A - Spread](https://zenn.dev/hyperdb/articles/498ea68d696201)
 - [ABC-329｜B - Next](https://zenn.dev/hyperdb/articles/a3508767d317b9)
+- [ABC-330｜A - Counting Passes](https://zenn.dev/hyperdb/articles/604afaf65568e5)
+- [ABC-330｜B - Minimize Abs 1](https://zenn.dev/hyperdb/articles/a20d5784c7dd89)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
