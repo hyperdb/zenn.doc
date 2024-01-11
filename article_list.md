@@ -582,5 +582,7 @@
 - [ABC-330｜B - Minimize Abs 1](https://zenn.dev/hyperdb/articles/a20d5784c7dd89)
 - [ABC-331｜A - Tomorrow](https://zenn.dev/hyperdb/articles/03b3005a5d2066)
 - [ABC-331｜B - Buy One Carton of Milk](https://zenn.dev/hyperdb/articles/9dbd014248e859)
+- [ABC-332｜A - Online Shopping](https://zenn.dev/hyperdb/articles/c58e9eb69a1eff)
+- [ABC-332｜B - Glass and Mug](https://zenn.dev/hyperdb/articles/ea1ca1742e5cae)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
