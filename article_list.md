@@ -584,5 +584,7 @@
 - [ABC-331｜B - Buy One Carton of Milk](https://zenn.dev/hyperdb/articles/9dbd014248e859)
 - [ABC-332｜A - Online Shopping](https://zenn.dev/hyperdb/articles/c58e9eb69a1eff)
 - [ABC-332｜B - Glass and Mug](https://zenn.dev/hyperdb/articles/ea1ca1742e5cae)
+- [ABC-333｜A - Three Threes](https://zenn.dev/hyperdb/articles/22ce9960b5e20b)
+- [ABC-333｜B - Pentagon](https://zenn.dev/hyperdb/articles/9af6f240dae2f7)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
