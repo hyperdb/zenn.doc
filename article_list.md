@@ -588,5 +588,7 @@
 - [ABC-333｜B - Pentagon](https://zenn.dev/hyperdb/articles/9af6f240dae2f7)
 - [ABC-334｜A - Christmas Present](https://zenn.dev/hyperdb/articles/c256d51f792d9b)
 - [ABC-334｜B - Christmas Trees](https://zenn.dev/hyperdb/articles/48696a29e9087f)
+- [ABC-335｜A - 202<s>3</s>](https://zenn.dev/hyperdb/articles/800e68ed04b2b4)
+- [ABC-335｜B - Tetrahedral Number](https://zenn.dev/hyperdb/articles/7098cbcd3d6c9e)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
