@@ -590,5 +590,7 @@
 - [ABC-334｜B - Christmas Trees](https://zenn.dev/hyperdb/articles/48696a29e9087f)
 - [ABC-335｜A - 202<s>3</s>](https://zenn.dev/hyperdb/articles/800e68ed04b2b4)
 - [ABC-335｜B - Tetrahedral Number](https://zenn.dev/hyperdb/articles/7098cbcd3d6c9e)
+- [ABC-336｜A - Long Loong](https://zenn.dev/hyperdb/articles/cc4b10197ad6b7)
+- [ABC-336｜B - CTZ](https://zenn.dev/hyperdb/articles/e617802d7b2a43)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
