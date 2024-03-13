@@ -592,5 +592,7 @@
 - [ABC-335｜B - Tetrahedral Number](https://zenn.dev/hyperdb/articles/7098cbcd3d6c9e)
 - [ABC-336｜A - Long Loong](https://zenn.dev/hyperdb/articles/cc4b10197ad6b7)
 - [ABC-336｜B - CTZ](https://zenn.dev/hyperdb/articles/e617802d7b2a43)
+- [ABC-337｜A - Scoreboard](https://zenn.dev/hyperdb/articles/b3a2d4427ee5cc)
+- [ABC-337｜B - Extended ABC](https://zenn.dev/hyperdb/articles/87245cf070413d)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
