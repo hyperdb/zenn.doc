@@ -594,5 +594,7 @@
 - [ABC-336｜B - CTZ](https://zenn.dev/hyperdb/articles/e617802d7b2a43)
 - [ABC-337｜A - Scoreboard](https://zenn.dev/hyperdb/articles/b3a2d4427ee5cc)
 - [ABC-337｜B - Extended ABC](https://zenn.dev/hyperdb/articles/87245cf070413d)
+- [ABC-338｜A - Capitalized?](https://zenn.dev/hyperdb/articles/231f47c328cb57)
+- [ABC-338｜B - Frequency](https://zenn.dev/hyperdb/articles/b75c8539451eec)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
