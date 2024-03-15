@@ -596,5 +596,7 @@
 - [ABC-337｜B - Extended ABC](https://zenn.dev/hyperdb/articles/87245cf070413d)
 - [ABC-338｜A - Capitalized?](https://zenn.dev/hyperdb/articles/231f47c328cb57)
 - [ABC-338｜B - Frequency](https://zenn.dev/hyperdb/articles/b75c8539451eec)
+- [ABC-339｜A - TLD](https://zenn.dev/hyperdb/articles/b1ededfc9e10dd)
+- [ABC-339｜B - Langton's Takahashi](https://zenn.dev/hyperdb/articles/04d30088e72165)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
