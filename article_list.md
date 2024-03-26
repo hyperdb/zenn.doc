@@ -604,5 +604,7 @@
 - [ABC-341｜B - Foreign Exchange](https://zenn.dev/hyperdb/articles/be895f336153a6)
 - [ABC-342｜A - Yay!](https://zenn.dev/hyperdb/articles/b3969312283d6d)
 - [ABC-342｜B - Which is ahead?](https://zenn.dev/hyperdb/articles/ca74b06adf060e)
+- [ABC-343｜A - Wrong Answer](https://zenn.dev/hyperdb/articles/636a8121f9bfc5)
+- [ABC-343｜B - Adjacency Matrix](https://zenn.dev/hyperdb/articles/73b80b3c39fdde)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
