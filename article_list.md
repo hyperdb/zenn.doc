@@ -610,5 +610,7 @@
 - [ABC-344｜B - Delimiter](https://zenn.dev/hyperdb/articles/e8d91d92ae776f)
 - [ABC-345｜A - Leftrightarrow](https://zenn.dev/hyperdb/articles/7164e63bbeb778)
 - [ABC-345｜B - Integer Division Returns](https://zenn.dev/hyperdb/articles/2daf7b53028c84)
+- [ABC-346｜A - Adjacent Product](https://zenn.dev/hyperdb/articles/889420a5e6a01f)
+- [ABC-346｜B - Piano](https://zenn.dev/hyperdb/articles/77f50abca2fad5)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
