@@ -614,5 +614,6 @@
 - [ABC-346｜B - Piano](https://zenn.dev/hyperdb/articles/77f50abca2fad5)
 - [ABC-347｜A - Divisible](https://zenn.dev/hyperdb/articles/f197587d385f34)
 - [ABC-347｜B - Substring](https://zenn.dev/hyperdb/articles/fe60ae7032d688)
+- [ABC-347｜C - Ideal Holidays](https://zenn.dev/hyperdb/articles/4608cf486ba10d)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
