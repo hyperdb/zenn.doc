@@ -612,6 +612,7 @@
 - [ABC-345｜B - Integer Division Returns](https://zenn.dev/hyperdb/articles/2daf7b53028c84)
 - [ABC-346｜A - Adjacent Product](https://zenn.dev/hyperdb/articles/889420a5e6a01f)
 - [ABC-346｜B - Piano](https://zenn.dev/hyperdb/articles/77f50abca2fad5)
+- [ABC-346｜C - Σ](https://zenn.dev/hyperdb/articles/a431a8885d1dee)
 - [ABC-347｜A - Divisible](https://zenn.dev/hyperdb/articles/f197587d385f34)
 - [ABC-347｜B - Substring](https://zenn.dev/hyperdb/articles/fe60ae7032d688)
 - [ABC-347｜C - Ideal Holidays](https://zenn.dev/hyperdb/articles/4608cf486ba10d)
