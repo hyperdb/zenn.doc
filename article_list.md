@@ -610,6 +610,7 @@
 - [ABC-344｜B - Delimiter](https://zenn.dev/hyperdb/articles/e8d91d92ae776f)
 - [ABC-345｜A - Leftrightarrow](https://zenn.dev/hyperdb/articles/7164e63bbeb778)
 - [ABC-345｜B - Integer Division Returns](https://zenn.dev/hyperdb/articles/2daf7b53028c84)
+- [ABC-345｜C - One Time Swap](https://zenn.dev/hyperdb/articles/2dde3eb2427aa5)
 - [ABC-346｜A - Adjacent Product](https://zenn.dev/hyperdb/articles/889420a5e6a01f)
 - [ABC-346｜B - Piano](https://zenn.dev/hyperdb/articles/77f50abca2fad5)
 - [ABC-346｜C - Σ](https://zenn.dev/hyperdb/articles/a431a8885d1dee)
