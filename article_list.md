@@ -606,6 +606,7 @@
 - [ABC-342｜B - Which is ahead?](https://zenn.dev/hyperdb/articles/ca74b06adf060e)
 - [ABC-343｜A - Wrong Answer](https://zenn.dev/hyperdb/articles/636a8121f9bfc5)
 - [ABC-343｜B - Adjacency Matrix](https://zenn.dev/hyperdb/articles/73b80b3c39fdde)
+- [ABC-343｜C - 343](https://zenn.dev/hyperdb/articles/bae3afdfc2db33)
 - [ABC-344｜A - Spoiler](https://zenn.dev/hyperdb/articles/082ef7ab77cccd)
 - [ABC-344｜B - Delimiter](https://zenn.dev/hyperdb/articles/e8d91d92ae776f)
 - [ABC-344｜C - A+B+C](https://zenn.dev/hyperdb/articles/97e47d3edf6815)
