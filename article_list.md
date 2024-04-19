@@ -604,6 +604,7 @@
 - [ABC-341｜B - Foreign Exchange](https://zenn.dev/hyperdb/articles/be895f336153a6)
 - [ABC-342｜A - Yay!](https://zenn.dev/hyperdb/articles/b3969312283d6d)
 - [ABC-342｜B - Which is ahead?](https://zenn.dev/hyperdb/articles/ca74b06adf060e)
+- [ABC-342｜C - Many Replacement](https://zenn.dev/hyperdb/articles/00663783739774)
 - [ABC-343｜A - Wrong Answer](https://zenn.dev/hyperdb/articles/636a8121f9bfc5)
 - [ABC-343｜B - Adjacency Matrix](https://zenn.dev/hyperdb/articles/73b80b3c39fdde)
 - [ABC-343｜C - 343](https://zenn.dev/hyperdb/articles/bae3afdfc2db33)
