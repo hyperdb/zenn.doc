@@ -602,6 +602,7 @@
 - [ABC-340｜B - Append](https://zenn.dev/hyperdb/articles/4cc4dfd7ddac33)
 - [ABC-341｜A - Print 341](https://zenn.dev/hyperdb/articles/28a1d2fa99d56e)
 - [ABC-341｜B - Foreign Exchange](https://zenn.dev/hyperdb/articles/be895f336153a6)
+- [ABC-341｜C - Takahashi Gets Lost](https://zenn.dev/hyperdb/articles/90e34cc29276fc)
 - [ABC-342｜A - Yay!](https://zenn.dev/hyperdb/articles/b3969312283d6d)
 - [ABC-342｜B - Which is ahead?](https://zenn.dev/hyperdb/articles/ca74b06adf060e)
 - [ABC-342｜C - Many Replacement](https://zenn.dev/hyperdb/articles/00663783739774)
