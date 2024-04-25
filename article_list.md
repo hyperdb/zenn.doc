@@ -600,6 +600,7 @@
 - [ABC-339｜B - Langton's Takahashi](https://zenn.dev/hyperdb/articles/04d30088e72165)
 - [ABC-340｜A - Arithmetic Progression](https://zenn.dev/hyperdb/articles/43f1561b305a4b)
 - [ABC-340｜B - Append](https://zenn.dev/hyperdb/articles/4cc4dfd7ddac33)
+- [ABC-340｜C - Divide and Divide](https://zenn.dev/hyperdb/articles/074e6bdc85c7c7)
 - [ABC-341｜A - Print 341](https://zenn.dev/hyperdb/articles/28a1d2fa99d56e)
 - [ABC-341｜B - Foreign Exchange](https://zenn.dev/hyperdb/articles/be895f336153a6)
 - [ABC-341｜C - Takahashi Gets Lost](https://zenn.dev/hyperdb/articles/90e34cc29276fc)
