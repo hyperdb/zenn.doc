@@ -598,6 +598,7 @@
 - [ABC-338｜B - Frequency](https://zenn.dev/hyperdb/articles/b75c8539451eec)
 - [ABC-339｜A - TLD](https://zenn.dev/hyperdb/articles/b1ededfc9e10dd)
 - [ABC-339｜B - Langton's Takahashi](https://zenn.dev/hyperdb/articles/04d30088e72165)
+- [ABC-339｜C - Perfect Bus](https://zenn.dev/hyperdb/articles/26cc50b563c695)
 - [ABC-340｜A - Arithmetic Progression](https://zenn.dev/hyperdb/articles/43f1561b305a4b)
 - [ABC-340｜B - Append](https://zenn.dev/hyperdb/articles/4cc4dfd7ddac33)
 - [ABC-340｜C - Divide and Divide](https://zenn.dev/hyperdb/articles/074e6bdc85c7c7)
