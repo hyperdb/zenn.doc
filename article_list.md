@@ -623,5 +623,8 @@
 - [ABC-347｜A - Divisible](https://zenn.dev/hyperdb/articles/f197587d385f34)
 - [ABC-347｜B - Substring](https://zenn.dev/hyperdb/articles/fe60ae7032d688)
 - [ABC-347｜C - Ideal Holidays](https://zenn.dev/hyperdb/articles/4608cf486ba10d)
+- [ABC-348｜A - Penalty Kick](https://zenn.dev/hyperdb/articles/6bb79039111bb0)
+- [ABC-348｜B - Farthest Point](https://zenn.dev/hyperdb/articles/f6ff95b3113f08)
+- [ABC-348｜C - Colorful Beans](https://zenn.dev/hyperdb/articles/aba4f33c8ab904)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
