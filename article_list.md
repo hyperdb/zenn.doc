@@ -626,5 +626,8 @@
 - [ABC-348｜A - Penalty Kick](https://zenn.dev/hyperdb/articles/6bb79039111bb0)
 - [ABC-348｜B - Farthest Point](https://zenn.dev/hyperdb/articles/f6ff95b3113f08)
 - [ABC-348｜C - Colorful Beans](https://zenn.dev/hyperdb/articles/aba4f33c8ab904)
+- [ABC-349｜A - Zero Sum Game](https://zenn.dev/hyperdb/articles/24dca9b704358d)
+- [ABC-349｜B - Commencement](https://zenn.dev/hyperdb/articles/0bc9852302426d)
+- [ABC-349｜C - Airport Code](https://zenn.dev/hyperdb/articles/c9a8b1ecdde78f)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
