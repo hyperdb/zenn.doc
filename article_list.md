@@ -588,6 +588,7 @@
 - [ABC-333｜B - Pentagon](https://zenn.dev/hyperdb/articles/9af6f240dae2f7)
 - [ABC-334｜A - Christmas Present](https://zenn.dev/hyperdb/articles/c256d51f792d9b)
 - [ABC-334｜B - Christmas Trees](https://zenn.dev/hyperdb/articles/48696a29e9087f)
+- [ABC-334｜C - Socks 2](https://zenn.dev/hyperdb/articles/e08d22c3b4401a)
 - [ABC-335｜A - 202<s>3</s>](https://zenn.dev/hyperdb/articles/800e68ed04b2b4)
 - [ABC-335｜B - Tetrahedral Number](https://zenn.dev/hyperdb/articles/7098cbcd3d6c9e)
 - [ABC-335｜C - Loong Tracking](https://zenn.dev/hyperdb/articles/c616fccc81fd3f)
