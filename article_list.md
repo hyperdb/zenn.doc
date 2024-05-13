@@ -586,6 +586,7 @@
 - [ABC-332｜B - Glass and Mug](https://zenn.dev/hyperdb/articles/ea1ca1742e5cae)
 - [ABC-333｜A - Three Threes](https://zenn.dev/hyperdb/articles/22ce9960b5e20b)
 - [ABC-333｜B - Pentagon](https://zenn.dev/hyperdb/articles/9af6f240dae2f7)
+- [ABC-333｜C - Repunit Trio](https://zenn.dev/hyperdb/articles/dc5c0ad5e53759)
 - [ABC-334｜A - Christmas Present](https://zenn.dev/hyperdb/articles/c256d51f792d9b)
 - [ABC-334｜B - Christmas Trees](https://zenn.dev/hyperdb/articles/48696a29e9087f)
 - [ABC-334｜C - Socks 2](https://zenn.dev/hyperdb/articles/e08d22c3b4401a)
