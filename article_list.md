@@ -641,5 +641,7 @@
 - [ABC-351｜B - Spot the Difference](https://zenn.dev/hyperdb/articles/01abe9db53df2d)
 - [ABC-352｜A - AtCoder Line](https://zenn.dev/hyperdb/articles/be901c99f055c0)
 - [ABC-352｜B - Typing](https://zenn.dev/hyperdb/articles/25f15c9a7c1b03)
+- [ABC-353｜A - Buildings](https://zenn.dev/hyperdb/articles/1f1d17280f6d4c)
+- [ABC-353｜B - AtCoder Amusement Park](https://zenn.dev/hyperdb/articles/47117c37468f8e)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
