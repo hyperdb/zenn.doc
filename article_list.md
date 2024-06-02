@@ -1,5 +1,6 @@
 - [ABC-042｜A - 和風いろはちゃんイージー](https://zenn.dev/hyperdb/articles/b462a2dbdc2d1c)
 - [ABC-042｜B - 和風いろはちゃんイージー](https://zenn.dev/hyperdb/articles/13e6376de2f640)
+- [ABC-042｜C - こだわり者いろはちゃん](https://zenn.dev/hyperdb/articles/156852a9dd7abf)
 - [ABC-043｜A - キャンディーとN人の子供イージー](https://zenn.dev/hyperdb/articles/2863ed139fa6f0)
 - [ABC-043｜B - バイナリハックイージー](https://zenn.dev/hyperdb/articles/93285160ef86bb)
 - [ABC-044｜A - 高橋君とホテルイージー](https://zenn.dev/hyperdb/articles/56e1a0499eb271)
