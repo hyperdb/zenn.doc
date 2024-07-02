@@ -654,5 +654,7 @@
 - [ABC-357｜B - Uppercase and Lowercase](https://zenn.dev/hyperdb/articles/98491c0182a37f)
 - [ABC-358｜A - Welcome to AtCoder Land](https://zenn.dev/hyperdb/articles/5fcb20120d0216)
 - [ABC-358｜B - Ticket Counter](https://zenn.dev/hyperdb/articles/410f1be20f02df)
+- [ABC-359｜A - Count Takahashi](https://zenn.dev/hyperdb/articles/098d5248f8a0a0)
+- [ABC-359｜B - Couples](https://zenn.dev/hyperdb/articles/33b96046b758cd)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
