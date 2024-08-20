@@ -664,5 +664,7 @@
 - [ABC-362｜B - Right Triangle](https://zenn.dev/hyperdb/articles/c73dd95cb4dda8)
 - [ABC-363｜A - Piling Up](https://zenn.dev/hyperdb/articles/eac6131b47b4b2)
 - [ABC-363｜B - Japanese Cursed Doll](https://zenn.dev/hyperdb/articles/e57ebe2ea73cf7)
+- [ABC-364｜A - Glutton Takahashi](https://zenn.dev/hyperdb/articles/40f1015cd0f8e9)
+- [ABC-364｜B - Grid Walk](https://zenn.dev/hyperdb/articles/b691d239d47f47)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
