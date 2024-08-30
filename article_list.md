@@ -670,5 +670,7 @@
 - [ABC-365｜B - Second Best](https://zenn.dev/hyperdb/articles/3b26ad177f67a7)
 - [ABC-366｜A - Election 2](https://zenn.dev/hyperdb/articles/4106071cb789fe)
 - [ABC-366｜B - Vertical Writing](https://zenn.dev/hyperdb/articles/8057ce2469f18d)
+- [ABC-367｜A - Shout Everyday](https://zenn.dev/hyperdb/articles/1fb9d083606344)
+- [ABC-367｜B - Cut .0](https://zenn.dev/hyperdb/articles/69457ae4cda784)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
