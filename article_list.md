@@ -672,5 +672,6 @@
 - [ABC-366｜B - Vertical Writing](https://zenn.dev/hyperdb/articles/8057ce2469f18d)
 - [ABC-367｜A - Shout Everyday](https://zenn.dev/hyperdb/articles/1fb9d083606344)
 - [ABC-367｜B - Cut .0](https://zenn.dev/hyperdb/articles/69457ae4cda784)
+- [ABC-367｜C - Enumerate Sequences](https://zenn.dev/hyperdb/articles/a769952ebbb8ca)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
