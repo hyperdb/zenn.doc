@@ -681,5 +681,7 @@
 - [ABC-370｜A - Raise Both Hands](https://zenn.dev/hyperdb/articles/ed81fe6227580b)
 - [ABC-370｜B - Binary Alchemy](https://zenn.dev/hyperdb/articles/a7fae86920f7e0)
 - [ABC-370｜C - Word Ladder](https://zenn.dev/hyperdb/articles/95dec18ab35ba1)
+- [ABC-371｜A - Jiro](https://zenn.dev/hyperdb/articles/f7144a1bce414d)
+- [ABC-371｜B - Taro](https://zenn.dev/hyperdb/articles/e9468a651c028f)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
