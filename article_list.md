@@ -683,5 +683,7 @@
 - [ABC-370｜C - Word Ladder](https://zenn.dev/hyperdb/articles/95dec18ab35ba1)
 - [ABC-371｜A - Jiro](https://zenn.dev/hyperdb/articles/f7144a1bce414d)
 - [ABC-371｜B - Taro](https://zenn.dev/hyperdb/articles/e9468a651c028f)
+- [ABC-372｜A - delete .](https://zenn.dev/hyperdb/articles/b8673b1b3cac1b)
+- [ABC-372｜B - 3^A](https://zenn.dev/hyperdb/articles/03a8ed3b60cb3c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
