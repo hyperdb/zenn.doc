@@ -689,5 +689,8 @@
 - [ABC-373｜A - September](https://zenn.dev/hyperdb/articles/3ce5481c4ced3b)
 - [ABC-373｜B - 1D Keyboard](https://zenn.dev/hyperdb/articles/7af6db4a1bffca)
 - [ABC-373｜C - Max Ai+Bj](https://zenn.dev/hyperdb/articles/a190b1d4a6d1bd)
+- [ABC-374｜A - Takahashi san 2](https://zenn.dev/hyperdb/articles/d211f0bc7f8dc3)
+- [ABC-374｜B - Unvarnished Report](https://zenn.dev/hyperdb/articles/62343e38ddf64f)
+- [ABC-374｜C - Separated Lunch](https://zenn.dev/hyperdb/articles/cc7ec94dcbaa89)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
