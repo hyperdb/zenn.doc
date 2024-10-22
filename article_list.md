@@ -692,5 +692,7 @@
 - [ABC-374｜A - Takahashi san 2](https://zenn.dev/hyperdb/articles/d211f0bc7f8dc3)
 - [ABC-374｜B - Unvarnished Report](https://zenn.dev/hyperdb/articles/62343e38ddf64f)
 - [ABC-374｜C - Separated Lunch](https://zenn.dev/hyperdb/articles/cc7ec94dcbaa89)
+- [ABC-375｜A - Seats](https://zenn.dev/hyperdb/articles/caa7e7ec337f3a)
+- [ABC-375｜B - Traveling Takahashi Problem](https://zenn.dev/hyperdb/articles/e7e3c305921c15)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
