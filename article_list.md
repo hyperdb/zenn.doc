@@ -698,5 +698,6 @@
 - [ABC-376｜B - Hands on Ring (Easy)](https://zenn.dev/hyperdb/articles/60ffd5527b88be)
 - [ABC-377｜A - Rearranging ABC](https://zenn.dev/hyperdb/articles/84768e06de05e6)
 - [ABC-377｜B - Avoid Rook Attack](https://zenn.dev/hyperdb/articles/966f12a0026645)
+- [ABC-377｜C - Avoid Knight Attack](https://zenn.dev/hyperdb/articles/d6be9810cc0c74)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
