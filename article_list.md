@@ -696,6 +696,7 @@
 - [ABC-375｜B - Traveling Takahashi Problem](https://zenn.dev/hyperdb/articles/e7e3c305921c15)
 - [ABC-376｜A - Candy Button](https://zenn.dev/hyperdb/articles/267b1de0ff065a)
 - [ABC-376｜B - Hands on Ring (Easy)](https://zenn.dev/hyperdb/articles/60ffd5527b88be)
+- [ABC-376｜C - Prepare Another Box](https://zenn.dev/hyperdb/articles/ef57f52ae31848)
 - [ABC-377｜A - Rearranging ABC](https://zenn.dev/hyperdb/articles/84768e06de05e6)
 - [ABC-377｜B - Avoid Rook Attack](https://zenn.dev/hyperdb/articles/966f12a0026645)
 - [ABC-377｜C - Avoid Knight Attack](https://zenn.dev/hyperdb/articles/d6be9810cc0c74)
