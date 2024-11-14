@@ -1,3 +1,6 @@
+- [ABC-033｜A - 暗証番号](https://zenn.dev/hyperdb/articles/69bbb06df5c0b0)
+- [ABC-033｜B - 町の合併](https://zenn.dev/hyperdb/articles/8f1df06ceae846)
+- [ABC-033｜C - 数式の書き換え](https://zenn.dev/hyperdb/articles/9f6948992e4bae)
 - [ABC-035｜A - テレビ](https://zenn.dev/hyperdb/articles/f9a7a25b203a6e)
 - [ABC-035｜B - ドローン](https://zenn.dev/hyperdb/articles/dd1321d7b4888c)
 - [ABC-035｜C - オセロ](https://zenn.dev/hyperdb/articles/817575c5673ece)
