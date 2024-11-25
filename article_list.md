@@ -711,5 +711,7 @@
 - [ABC-378｜A - Pairing](https://zenn.dev/hyperdb/articles/b75119707ed315)
 - [ABC-378｜B - Garbage Collection](https://zenn.dev/hyperdb/articles/9cd05d3fe4ba87)
 - [ABC-378｜C - Repeating](https://zenn.dev/hyperdb/articles/9da47a078bccf4)
+- [ABC-379｜A - Cyclic](https://zenn.dev/hyperdb/articles/bc3df81d00e57c)
+- [ABC-379｜B - Strawberries](https://zenn.dev/hyperdb/articles/4e4831c379b9ad)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
