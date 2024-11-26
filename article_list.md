@@ -713,5 +713,8 @@
 - [ABC-378｜C - Repeating](https://zenn.dev/hyperdb/articles/9da47a078bccf4)
 - [ABC-379｜A - Cyclic](https://zenn.dev/hyperdb/articles/bc3df81d00e57c)
 - [ABC-379｜B - Strawberries](https://zenn.dev/hyperdb/articles/4e4831c379b9ad)
+- [ABC-380｜A - 123233](https://zenn.dev/hyperdb/articles/9c024c9e299107)
+- [ABC-380｜B - Hurdle Parsing](https://zenn.dev/hyperdb/articles/fdd45843ec3b7e)
+- [ABC-380｜C - Move Segment](https://zenn.dev/hyperdb/articles/c83e8cb789bfba)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
