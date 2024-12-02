@@ -716,5 +716,8 @@
 - [ABC-380｜A - 123233](https://zenn.dev/hyperdb/articles/9c024c9e299107)
 - [ABC-380｜B - Hurdle Parsing](https://zenn.dev/hyperdb/articles/fdd45843ec3b7e)
 - [ABC-380｜C - Move Segment](https://zenn.dev/hyperdb/articles/c83e8cb789bfba)
+- [ABC-381｜A - 11/22 String](https://zenn.dev/hyperdb/articles/918557184de529)
+- [ABC-381｜B - 1122 String](https://zenn.dev/hyperdb/articles/35a692d45f7b25)
+- [ABC-381｜C - 11/22 Substring](https://zenn.dev/hyperdb/articles/298c0a5d1c759c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
