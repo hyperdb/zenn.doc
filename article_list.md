@@ -726,5 +726,7 @@
 - [ABC-384｜A - aaaadaa](https://zenn.dev/hyperdb/articles/9b36e19e558d17)
 - [ABC-384｜B - ARC Division](https://zenn.dev/hyperdb/articles/44b92e5165928c)
 - [ABC-384｜C - Perfect Standings](https://zenn.dev/hyperdb/articles/58e5469e41dcf5)
+- [ABC-385｜A - Equally](https://zenn.dev/hyperdb/articles/4898d298b545a0)
+- [ABC-385｜B - Santa Claus 1](https://zenn.dev/hyperdb/articles/e8e53fa38eea46)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
