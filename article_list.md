@@ -728,5 +728,7 @@
 - [ABC-384｜C - Perfect Standings](https://zenn.dev/hyperdb/articles/58e5469e41dcf5)
 - [ABC-385｜A - Equally](https://zenn.dev/hyperdb/articles/4898d298b545a0)
 - [ABC-385｜B - Santa Claus 1](https://zenn.dev/hyperdb/articles/e8e53fa38eea46)
+- [ABC-386｜A - Full House 2](https://zenn.dev/hyperdb/articles/d0f9b5f9281dc0)
+- [ABC-386｜B - Calculator](https://zenn.dev/hyperdb/articles/8d483c8e1cda1e)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
