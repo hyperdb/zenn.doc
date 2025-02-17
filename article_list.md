@@ -741,5 +741,7 @@
 - [ABC-390｜B - Geometric Sequence](https://zenn.dev/hyperdb/articles/9504e999dbbd8b)
 - [ABC-391｜A - Lucky Direction](https://zenn.dev/hyperdb/articles/efd961e74532a0)
 - [ABC-391｜B - Seek Grid](https://zenn.dev/hyperdb/articles/138b232a91dbcb)
+- [ABC-392｜A - Shuffled Equation](https://zenn.dev/hyperdb/articles/275680a6266f8d)
+- [ABC-392｜B - Who is Missing?](https://zenn.dev/hyperdb/articles/c00ad6628ac812)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
