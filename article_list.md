@@ -747,5 +747,7 @@
 - [ABC-393｜B - A..B..C](https://zenn.dev/hyperdb/articles/96783375d23059)
 - [ABC-394｜A - 22222](https://zenn.dev/hyperdb/articles/675a420253e4c3)
 - [ABC-394｜B - cat](https://zenn.dev/hyperdb/articles/d0b19402ec6e78)
+- [ABC-395｜A - Strictly Increasing?](https://zenn.dev/hyperdb/articles/bf80ad33ff1bde)
+- [ABC-395｜B - Make Target](https://zenn.dev/hyperdb/articles/fc32235291ea5b)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
