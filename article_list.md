@@ -753,5 +753,7 @@
 - [ABC-396｜B - Card Pile](https://zenn.dev/hyperdb/articles/bdf3abfca81aaf)
 - [ABC-397｜A - Thermometer](https://zenn.dev/hyperdb/articles/3418d4d38313bc)
 - [ABC-397｜B - Ticket Gate Log](https://zenn.dev/hyperdb/articles/8bd2d464998dc8)
+- [ABC-398｜A - Doors in the Center](https://zenn.dev/hyperdb/articles/5a94801fdf571b)
+- [ABC-398｜B - Full House 3](https://zenn.dev/hyperdb/articles/97b49c94958fd2)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
