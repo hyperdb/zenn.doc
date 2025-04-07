@@ -755,5 +755,7 @@
 - [ABC-397｜B - Ticket Gate Log](https://zenn.dev/hyperdb/articles/8bd2d464998dc8)
 - [ABC-398｜A - Doors in the Center](https://zenn.dev/hyperdb/articles/5a94801fdf571b)
 - [ABC-398｜B - Full House 3](https://zenn.dev/hyperdb/articles/97b49c94958fd2)
+- [ABC-399 ｜A - Hamming Distance](https://zenn.dev/hyperdb/articles/7da0eebe677a40)
+- [ABC-399 ｜B - Ranking with Ties](https://zenn.dev/hyperdb/articles/2e4995d7d3ce86)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
