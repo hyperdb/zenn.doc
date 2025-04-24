@@ -759,5 +759,7 @@
 - [ABC-399 ｜B - Ranking with Ties](https://zenn.dev/hyperdb/articles/2e4995d7d3ce86)
 - [ABC-400 ｜A - ABC400 Party](https://zenn.dev/hyperdb/articles/60c9e4c0faa4ab)
 - [ABC-400 ｜B - Sum of Geometric Series](https://zenn.dev/hyperdb/articles/9aece9113b5c0a)
+- [ABC-401｜A - Status Code](https://zenn.dev/hyperdb/articles/1a23fd626da2f7)
+- [ABC-401｜B - Unauthorized](https://zenn.dev/hyperdb/articles/429434122e0c0a)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
