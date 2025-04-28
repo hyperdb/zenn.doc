@@ -761,5 +761,7 @@
 - [ABC-400 ｜B - Sum of Geometric Series](https://zenn.dev/hyperdb/articles/9aece9113b5c0a)
 - [ABC-401｜A - Status Code](https://zenn.dev/hyperdb/articles/1a23fd626da2f7)
 - [ABC-401｜B - Unauthorized](https://zenn.dev/hyperdb/articles/429434122e0c0a)
+- [ABC-402｜A - CBC](https://zenn.dev/hyperdb/articles/6446b9e7f14233)
+- [ABC-402｜B - Restaurant Queue](https://zenn.dev/hyperdb/articles/dcc637f18cbe92)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
