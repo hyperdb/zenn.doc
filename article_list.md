@@ -763,5 +763,7 @@
 - [ABC-401｜B - Unauthorized](https://zenn.dev/hyperdb/articles/429434122e0c0a)
 - [ABC-402｜A - CBC](https://zenn.dev/hyperdb/articles/6446b9e7f14233)
 - [ABC-402｜B - Restaurant Queue](https://zenn.dev/hyperdb/articles/dcc637f18cbe92)
+- [ABC-403｜A - Odd Position Sum](https://zenn.dev/hyperdb/articles/b7338e3056a959)
+- [ABC-403｜B - Four Hidden](https://zenn.dev/hyperdb/articles/d3c93ac01e3c83)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
