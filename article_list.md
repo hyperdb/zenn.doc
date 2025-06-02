@@ -771,5 +771,7 @@
 - [ABC-405｜B - Not All](https://zenn.dev/hyperdb/articles/9d050977fa89f3)
 - [ABC-406｜A - Not Acceptable](https://zenn.dev/hyperdb/articles/4ec12d31e615fa)
 - [ABC-406｜B - Product Calculator](https://zenn.dev/hyperdb/articles/f449ec5c1aed1a)
+- [ABC-407｜A - Approximation](https://zenn.dev/hyperdb/articles/a5573549d9b131)
+- [ABC-407｜B - P(X or Y)](https://zenn.dev/hyperdb/articles/96287b8da0cd21)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
