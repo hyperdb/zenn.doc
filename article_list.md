@@ -776,5 +776,7 @@
 - [ABC-408｜A - Timeout](https://zenn.dev/hyperdb/articles/cbd4c1f6c47551)
 - [ABC-408｜B - Compression](https://zenn.dev/hyperdb/articles/c96badfc5945e2)
 - [ABC-408｜C - Not All Covered](https://zenn.dev/hyperdb/articles/08a06fbf71e346)
+- [ABC-409｜A - Conflict](https://zenn.dev/hyperdb/articles/e9e72086976665)
+- [ABC-409｜B - Citation](https://zenn.dev/hyperdb/articles/fcd08941e8dda7)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
