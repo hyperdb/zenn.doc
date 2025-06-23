@@ -778,5 +778,7 @@
 - [ABC-408｜C - Not All Covered](https://zenn.dev/hyperdb/articles/08a06fbf71e346)
 - [ABC-409｜A - Conflict](https://zenn.dev/hyperdb/articles/e9e72086976665)
 - [ABC-409｜B - Citation](https://zenn.dev/hyperdb/articles/fcd08941e8dda7)
+- [ABC-410｜A - G1](https://zenn.dev/hyperdb/articles/c0f3c2755ccc04)
+- [ABC-410｜B - Reverse Proxy](https://zenn.dev/hyperdb/articles/a58ad60d6bcf56)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
