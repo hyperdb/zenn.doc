@@ -782,5 +782,7 @@
 - [ABC-410｜B - Reverse Proxy](https://zenn.dev/hyperdb/articles/a58ad60d6bcf56)
 - [ABC-411｜A - Required Length](https://zenn.dev/hyperdb/articles/75db03423ed84e)
 - [ABC-411｜B - Distance Table](https://zenn.dev/hyperdb/articles/70be34bd8e7232)
+- [ABC-412｜A - Task Failed Successfully](https://zenn.dev/hyperdb/articles/dd52af0f8c61e4)
+- [ABC-412｜B - Precondition](https://zenn.dev/hyperdb/articles/70d3c08a89a5fc)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
