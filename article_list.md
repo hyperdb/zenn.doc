@@ -786,5 +786,7 @@
 - [ABC-412｜B - Precondition](https://zenn.dev/hyperdb/articles/70d3c08a89a5fc)
 - [ABC-413｜A - Content Too Large](https://zenn.dev/hyperdb/articles/7175e83c07f21a)
 - [ABC-413｜B - cat 2](https://zenn.dev/hyperdb/articles/becf691f16278e)
+- [ABC-414｜A - Streamer Takahashi](https://zenn.dev/hyperdb/articles/b5dd38d3fb4f75)
+- [ABC-414｜B - String Too Long](https://zenn.dev/hyperdb/articles/402c7efc49cc5d)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
