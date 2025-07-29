@@ -788,5 +788,7 @@
 - [ABC-413｜B - cat 2](https://zenn.dev/hyperdb/articles/becf691f16278e)
 - [ABC-414｜A - Streamer Takahashi](https://zenn.dev/hyperdb/articles/b5dd38d3fb4f75)
 - [ABC-414｜B - String Too Long](https://zenn.dev/hyperdb/articles/402c7efc49cc5d)
+- [ABC-415｜A - Unsupported Type](https://zenn.dev/hyperdb/articles/d734ad004ba9b7)
+- [ABC-415｜B - Pick Two](https://zenn.dev/hyperdb/articles/3404ef71a54855)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
