@@ -22,6 +22,7 @@
 - [ABC-047｜C - 一次元リバーシ](https://zenn.dev/hyperdb/articles/6931271b297c2a)
 - [ABC-048｜A - AtCoder *** Contest](https://zenn.dev/hyperdb/articles/74d9626fc673c4)
 - [ABC-048｜B - Between a and b ...](https://zenn.dev/hyperdb/articles/354e52348760b2)
+- [ABC-048｜C - Boxes and Candies](https://zenn.dev/hyperdb/articles/9c9fa530f4d183)
 - [ABC-049｜A - 居合を終え、青い絵を覆う](https://zenn.dev/hyperdb/articles/0be5d5e9eb8dcd)
 - [ABC-049｜B - たてなが](https://zenn.dev/hyperdb/articles/ecb4dd50256a1f)
 - [ABC-050｜A - Addition and Subtraction Easy](https://zenn.dev/hyperdb/articles/6515eaa8834a5b)
