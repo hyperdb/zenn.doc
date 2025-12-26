@@ -19,6 +19,7 @@
 - [ABC-046｜B - AtCoDeerくんとボール色塗り](https://zenn.dev/hyperdb/articles/4aa08f24188f3d)
 - [ABC-047｜A - キャンディーと2人の子供](https://zenn.dev/hyperdb/articles/21e05f7536f1e9)
 - [ABC-047｜B - すぬけ君の塗り絵 2 イージー](https://zenn.dev/hyperdb/articles/59d7ca2ade428e)
+- [ABC-047｜C - 一次元リバーシ](https://zenn.dev/hyperdb/articles/6931271b297c2a)
 - [ABC-048｜A - AtCoder *** Contest](https://zenn.dev/hyperdb/articles/74d9626fc673c4)
 - [ABC-048｜B - Between a and b ...](https://zenn.dev/hyperdb/articles/354e52348760b2)
 - [ABC-049｜A - 居合を終え、青い絵を覆う](https://zenn.dev/hyperdb/articles/0be5d5e9eb8dcd)
