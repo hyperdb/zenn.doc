@@ -816,5 +816,7 @@
 - [ABC-431｜B - Robot Weigh](https://zenn.dev/hyperdb/articles/3cf338f09a7ec9)
 - [ABC-432｜A - Permute to Maximize](https://zenn.dev/hyperdb/articles/0f8d18246a71e3)
 - [ABC-432｜B - Permute to Minimize](https://zenn.dev/hyperdb/articles/5c3dc5aef5be5c)
+- [ABC-433｜A - Happy Birthday! 4](https://zenn.dev/hyperdb/articles/63d8b751748bf6)
+- [ABC-433｜B - Nearest Taller](https://zenn.dev/hyperdb/articles/cea1454002fd33)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
