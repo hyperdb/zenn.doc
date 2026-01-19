@@ -28,6 +28,7 @@
 - [ABC-049｜C - 白昼夢](https://zenn.dev/hyperdb/articles/787f2b3218144f)
 - [ABC-050｜A - Addition and Subtraction Easy](https://zenn.dev/hyperdb/articles/6515eaa8834a5b)
 - [ABC-050｜B - Contest with Drinks Easy](https://zenn.dev/hyperdb/articles/358cce19fe3d80)
+- [ABC-050｜C - Lining Up](https://zenn.dev/hyperdb/articles/ba85e28a554436)
 - [ABC-051｜A - Haiku](https://zenn.dev/hyperdb/articles/1b4e8be58a5924)
 - [ABC-051｜B - Sum of Three Integers](https://zenn.dev/hyperdb/articles/d1e52a87b6559c)
 - [ABC-052｜A -  Two Rectangles](https://zenn.dev/hyperdb/articles/716d546e63da15)
