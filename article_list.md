@@ -25,6 +25,7 @@
 - [ABC-048｜C - Boxes and Candies](https://zenn.dev/hyperdb/articles/9c9fa530f4d183)
 - [ABC-049｜A - 居合を終え、青い絵を覆う](https://zenn.dev/hyperdb/articles/0be5d5e9eb8dcd)
 - [ABC-049｜B - たてなが](https://zenn.dev/hyperdb/articles/ecb4dd50256a1f)
+- [ABC-049｜C - 白昼夢](https://zenn.dev/hyperdb/articles/787f2b3218144f)
 - [ABC-050｜A - Addition and Subtraction Easy](https://zenn.dev/hyperdb/articles/6515eaa8834a5b)
 - [ABC-050｜B - Contest with Drinks Easy](https://zenn.dev/hyperdb/articles/358cce19fe3d80)
 - [ABC-051｜A - Haiku](https://zenn.dev/hyperdb/articles/1b4e8be58a5924)
