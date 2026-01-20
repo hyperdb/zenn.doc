@@ -39,6 +39,7 @@
 - [ABC-054｜B - Template Matching](https://zenn.dev/hyperdb/articles/c827d8ea0c44c3)
 - [ABC-055｜A - Restaurant](https://zenn.dev/hyperdb/articles/27463f33130688)
 - [ABC-055｜B - Training Camp](https://zenn.dev/hyperdb/articles/f9231fb231072e)
+- [ABC-055｜C - Scc Puzzle](https://zenn.dev/hyperdb/articles/08e4729225f8ed)
 - [ABC-056｜A - HonestOrDishonest](https://zenn.dev/hyperdb/articles/2d1ad5bbcdaa39)
 - [ABC-056｜B - NarrowRectanglesEasy](https://zenn.dev/hyperdb/articles/5471dc8cf18e9c)
 - [ABC-057｜A - Remaining Time](https://zenn.dev/hyperdb/articles/7eae9a5c063aca)
