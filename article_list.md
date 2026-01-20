@@ -42,6 +42,7 @@
 - [ABC-055｜C - Scc Puzzle](https://zenn.dev/hyperdb/articles/08e4729225f8ed)
 - [ABC-056｜A - HonestOrDishonest](https://zenn.dev/hyperdb/articles/2d1ad5bbcdaa39)
 - [ABC-056｜B - NarrowRectanglesEasy](https://zenn.dev/hyperdb/articles/5471dc8cf18e9c)
+- [ABC-056｜C - Go Home](https://zenn.dev/hyperdb/articles/b3849b6b193632)
 - [ABC-057｜A - Remaining Time](https://zenn.dev/hyperdb/articles/7eae9a5c063aca)
 - [ABC-057｜B - Checkpoints](https://zenn.dev/hyperdb/articles/3a1d2389271d95)
 - [ABC-058｜A - ι⊥l](https://zenn.dev/hyperdb/articles/c4f4b328651e60)
