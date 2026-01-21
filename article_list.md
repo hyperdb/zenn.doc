@@ -54,6 +54,7 @@
 - [ABC-059｜C - Sequence](https://zenn.dev/hyperdb/articles/a675882f2b7b26)
 - [ABC-060｜A - Shiritori](https://zenn.dev/hyperdb/articles/cb57d9b00f7019)
 - [ABC-060｜B - Choose Integers](https://zenn.dev/hyperdb/articles/35a6162a57b311)
+- [ABC-060｜C - Sentou](https://zenn.dev/hyperdb/articles/9864ce8aa8fde2)
 - [ABC-061｜A - Between Two Integers](https://zenn.dev/hyperdb/articles/214f49b07bec6c)
 - [ABC-061｜B - Counting Roads](https://zenn.dev/hyperdb/articles/c05953e1780cdf)
 - [ABC-062｜A - Grouping](https://zenn.dev/hyperdb/articles/baab99949d7986)
