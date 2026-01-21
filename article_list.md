@@ -837,5 +837,7 @@
 - [ABC-438｜B - Substring 2](https://zenn.dev/hyperdb/articles/25422653e22b6e)
 - [ABC-439｜A - 2^n - 2*n](https://zenn.dev/hyperdb/articles/20263af41475dc)
 - [ABC-439｜B - Happy Number](https://zenn.dev/hyperdb/articles/400d7cf5d7b272)
+- [ABC-440｜A - Octave](https://zenn.dev/hyperdb/articles/a0db429b76eb11)
+- [ABC-440｜B - Trifecta](https://zenn.dev/hyperdb/articles/fb0d25281eafb7)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
