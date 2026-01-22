@@ -57,6 +57,7 @@
 - [ABC-060｜C - Sentou](https://zenn.dev/hyperdb/articles/9864ce8aa8fde2)
 - [ABC-061｜A - Between Two Integers](https://zenn.dev/hyperdb/articles/214f49b07bec6c)
 - [ABC-061｜B - Counting Roads](https://zenn.dev/hyperdb/articles/c05953e1780cdf)
+- [ABC-061｜C - Big Array](https://zenn.dev/hyperdb/articles/91771a79d668cb)
 - [ABC-062｜A - Grouping](https://zenn.dev/hyperdb/articles/baab99949d7986)
 - [ABC-062｜B - Picture Frame](https://zenn.dev/hyperdb/articles/b7892ae809e2ce)
 - [ABC-063｜A - Restricted](https://zenn.dev/hyperdb/articles/939309dd85a4bd)
