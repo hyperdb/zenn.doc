@@ -62,6 +62,7 @@
 - [ABC-062｜B - Picture Frame](https://zenn.dev/hyperdb/articles/b7892ae809e2ce)
 - [ABC-063｜A - Restricted](https://zenn.dev/hyperdb/articles/939309dd85a4bd)
 - [ABC-063｜B - Varied](https://zenn.dev/hyperdb/articles/3f9794654d30c1)
+- [ABC-063｜C - Bugged](https://zenn.dev/hyperdb/articles/1299c9b6a66532)
 - [ABC-064｜A - RGB Cards](https://zenn.dev/hyperdb/articles/1881c34d011cd6)
 - [ABC-064｜B - Traveling AtCoDeer Problem](https://zenn.dev/hyperdb/articles/ced9b53c0ebbd5)
 - [ABC-065｜A - Expired?](https://zenn.dev/hyperdb/articles/42d6fd0597b6ec)
