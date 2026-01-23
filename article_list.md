@@ -65,6 +65,7 @@
 - [ABC-063｜C - Bugged](https://zenn.dev/hyperdb/articles/1299c9b6a66532)
 - [ABC-064｜A - RGB Cards](https://zenn.dev/hyperdb/articles/1881c34d011cd6)
 - [ABC-064｜B - Traveling AtCoDeer Problem](https://zenn.dev/hyperdb/articles/ced9b53c0ebbd5)
+- [ABC-064｜C - Colorful Leaderboard](https://zenn.dev/hyperdb/articles/b54f35cf02228a)
 - [ABC-065｜A - Expired?](https://zenn.dev/hyperdb/articles/42d6fd0597b6ec)
 - [ABC-065｜B - Trained?](https://zenn.dev/hyperdb/articles/f5c30c90fd11b0)
 - [ABC-066｜A - ringring](https://zenn.dev/hyperdb/articles/b14d103f6a2967)
