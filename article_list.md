@@ -844,5 +844,7 @@
 - [ABC-439｜B - Happy Number](https://zenn.dev/hyperdb/articles/400d7cf5d7b272)
 - [ABC-440｜A - Octave](https://zenn.dev/hyperdb/articles/a0db429b76eb11)
 - [ABC-440｜B - Trifecta](https://zenn.dev/hyperdb/articles/fb0d25281eafb7)
+- [ABC-441｜A - Black Square](https://zenn.dev/hyperdb/articles/1e5e2430739b1c)
+- [ABC-441｜B - Two Languages](https://zenn.dev/hyperdb/articles/232de0ac9337c7)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
