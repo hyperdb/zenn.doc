@@ -71,6 +71,7 @@
 - [ABC-065｜C - Reconciled?](https://zenn.dev/hyperdb/articles/d658fc992701bd)
 - [ABC-066｜A - ringring](https://zenn.dev/hyperdb/articles/b14d103f6a2967)
 - [ABC-066｜B - ss](https://zenn.dev/hyperdb/articles/497cb5dead52de)
+- [ABC-066｜C - pushpush](https://zenn.dev/hyperdb/articles/f72baa0e548ba2)
 - [ABC-067｜A - Sharing Cookies](https://zenn.dev/hyperdb/articles/60bb4624029c6b)
 - [ABC-067｜B - Snake Toy](https://zenn.dev/hyperdb/articles/50adad74dcdcd9)
 - [ABC-068｜A - Snake Toy](https://zenn.dev/hyperdb/articles/ac323bc73a4d90)
