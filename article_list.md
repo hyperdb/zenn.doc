@@ -95,6 +95,7 @@
 - [ABC-073｜C - Write and Erase](https://zenn.dev/hyperdb/articles/5bae81f0161e3a)
 - [ABC-074｜A - Bichrome Cells](https://zenn.dev/hyperdb/articles/70af9364f037b9)
 - [ABC-074｜B - Collecting Balls (Easy Version)](https://zenn.dev/hyperdb/articles/19a1071c792536)
+- [ABC-074｜C - Sugar Water](https://zenn.dev/hyperdb/articles/2555129a6b572c)
 - [ABC-075｜A - One out of Three](https://zenn.dev/hyperdb/articles/8192e5d0540c86)
 - [ABC-075｜B - Minesweeper](https://zenn.dev/hyperdb/articles/2edfb4fa04c975)
 - [ABC-076｜A - Rating Goal](https://zenn.dev/hyperdb/articles/92c3630390c1b1)
