@@ -864,5 +864,7 @@
 - [ABC-440｜B - Trifecta](https://zenn.dev/hyperdb/articles/fb0d25281eafb7)
 - [ABC-441｜A - Black Square](https://zenn.dev/hyperdb/articles/1e5e2430739b1c)
 - [ABC-441｜B - Two Languages](https://zenn.dev/hyperdb/articles/232de0ac9337c7)
+- [ABC-442｜A - Count .](https://zenn.dev/hyperdb/articles/b93409fe85f6e8)
+- [ABC-442｜B - Music Player](https://zenn.dev/hyperdb/articles/c6643e4cf03f39)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
