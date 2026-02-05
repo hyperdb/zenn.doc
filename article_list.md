@@ -830,6 +830,8 @@
 - [ABC-420｜B - Most Minority](https://zenn.dev/hyperdb/articles/07e3cd213a5193)
 - [ABC-421｜A - Misdelivery](https://zenn.dev/hyperdb/articles/2b41ab56a06fa2)
 - [ABC-421｜B - Fibonacci Reversed](https://zenn.dev/hyperdb/articles/e7b65dcbeae7bb)
+- [ABC-422｜A - Stage Clear](https://zenn.dev/hyperdb/articles/da1396c84c8a7e)
+- [ABC-422｜B - Looped Rope](https://zenn.dev/hyperdb/articles/fd4738e9be164a)
 - [ABC-423｜A - Scary Fee](https://zenn.dev/hyperdb/articles/ba9c276a07079c)
 - [ABC-423｜B - Locked Rooms](https://zenn.dev/hyperdb/articles/564fab75e87d3f)
 - [ABC-424｜A - Isosceles](https://zenn.dev/hyperdb/articles/002b087b596002)
