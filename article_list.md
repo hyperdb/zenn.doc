@@ -130,6 +130,7 @@
 - [ABC-086｜C - Traveling](https://zenn.dev/hyperdb/articles/b02685149ad3c0)
 - [ABC-087｜A - Buying Sweets](https://zenn.dev/hyperdb/articles/39cf9e86d4c937)
 - [ABC-087｜B - Coins](https://zenn.dev/hyperdb/articles/a0d878e6585e59)
+- [ABC-087｜C - Candies](https://zenn.dev/hyperdb/articles/6af396af437949)
 - [ABC-088｜A - Infinite Coins](https://zenn.dev/hyperdb/articles/ed94e495fe17c1)
 - [ABC-088｜B - Card Game for Two](https://zenn.dev/hyperdb/articles/6de435ca5b33f7)
 - [ABC-089｜A - Grouping 2](https://zenn.dev/hyperdb/articles/cfd89acc1e61ae)
