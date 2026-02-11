@@ -60,6 +60,7 @@
 - [ABC-061｜C - Big Array](https://zenn.dev/hyperdb/articles/91771a79d668cb)
 - [ABC-062｜A - Grouping](https://zenn.dev/hyperdb/articles/baab99949d7986)
 - [ABC-062｜B - Picture Frame](https://zenn.dev/hyperdb/articles/b7892ae809e2ce)
+- [ABC-062｜C - Chocolate Bar](https://zenn.dev/hyperdb/articles/327d153595a862)
 - [ABC-063｜A - Restricted](https://zenn.dev/hyperdb/articles/939309dd85a4bd)
 - [ABC-063｜B - Varied](https://zenn.dev/hyperdb/articles/3f9794654d30c1)
 - [ABC-063｜C - Bugged](https://zenn.dev/hyperdb/articles/1299c9b6a66532)
