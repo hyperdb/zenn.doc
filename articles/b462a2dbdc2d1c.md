@@ -8,7 +8,7 @@ published: true
 
 ## 設問ページ
 
-- 🔗[ABC042 A - 和風いろはちゃんイージー](https://atcoder.jp/contests/abc042/tasks/abc042_a)
+- 🔗[ABC-042 A - 和風いろはちゃんイージー](https://atcoder.jp/contests/abc042/tasks/abc042_a)
 
 ## 提出結果
 
