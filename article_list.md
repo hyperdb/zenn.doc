@@ -891,5 +891,8 @@
 - [ABC-446｜A - Handmaid](https://zenn.dev/hyperdb/articles/8b7614865f3008)
 - [ABC-446｜B - Greedy Draft](https://zenn.dev/hyperdb/articles/43585ed316b988)
 - [ABC-446｜C - Omelette Restaurant](https://zenn.dev/hyperdb/articles/57eebaec9403f4)
+- [ABC-447｜A - Seats 2](https://zenn.dev/hyperdb/articles/f3ea8e01a055c3)
+- [ABC-447｜B - mpp](https://zenn.dev/hyperdb/articles/1ed9805919885e)
+- [ABC-447｜C - Insert and Erase A](https://zenn.dev/hyperdb/articles/1aeaf632ae595c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
