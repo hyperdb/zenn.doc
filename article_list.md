@@ -896,5 +896,8 @@
 - [ABC-447｜A - Seats 2](https://zenn.dev/hyperdb/articles/f3ea8e01a055c3)
 - [ABC-447｜B - mpp](https://zenn.dev/hyperdb/articles/1ed9805919885e)
 - [ABC-447｜C - Insert and Erase A](https://zenn.dev/hyperdb/articles/1aeaf632ae595c)
+- [ABC-448｜A - chmin](https://zenn.dev/hyperdb/articles/48e1f4fb64f68d)
+- [ABC-448｜B - Pepper Addiction](https://zenn.dev/hyperdb/articles/730ad2ebdc70d1)
+- [ABC-448｜C - Except and Min](https://zenn.dev/hyperdb/articles/6b8942c9ba6996)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
