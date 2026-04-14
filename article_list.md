@@ -908,5 +908,8 @@
 - [ABC-451｜A - illegal](https://zenn.dev/hyperdb/articles/f70b8d020bb609)
 - [ABC-451｜B - Personnel Change](https://zenn.dev/hyperdb/articles/7c4e6ccef128c3)
 - [ABC-451｜C - Understory](https://zenn.dev/hyperdb/articles/5eb9216c87e902)
+- [ABC-452｜A - Gothec](https://zenn.dev/hyperdb/articles/6d19b4a29f3cbd)
+- [ABC-452｜B - Draw Frame](https://zenn.dev/hyperdb/articles/0329a6bcc8de84)
+- [ABC-452｜C - Fishbones](https://zenn.dev/hyperdb/articles/80d0b431f69fbc)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 - [投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
